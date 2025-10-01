@@ -1,0 +1,184 @@
+  body {
+        font-family: "Source Code Pro", monospace;
+        color: #00315a;
+        background-color: rgb(235, 230, 217);
+        background-image: url("{{ url_for('static', filename='Frame-5017.svg') }}");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+      }
+
+      .card,
+      .list-group-item {
+        background-color: rgba(255, 255, 255, 0.9);
+        color: #00315a;
+        border: 1px solid #ccc;
+        border-radius: 12px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+      }
+
+      a {
+        color: #00315a;
+        text-decoration: none;
+        font-weight: bold;
+      }
+      a:hover {
+        color: #005999;
+      }
+
+      .btn-filter {
+        background-color: #00315a;
+        color: #fff;
+        border-radius: 50px;
+        padding: 6px 18px;
+        font-weight: 600;
+      }
+      .btn-filter:hover {
+        background-color: #005999;
+        color: #fff;
+      }
+      .btn-filter-outline {
+        border: 2px solid #00315a;
+        color: #00315a;
+        border-radius: 50px;
+        padding: 6px 18px;
+        font-weight: 600;
+        background-color: transparent;
+      }
+      .btn-filter-outline:hover {
+        background-color: #00315a;
+        color: #fff;
+      }
+
+      /* Navbar */
+      .navbar-custom {
+        background-color: rgb(235, 230, 217);
+        border-bottom: 1px solid #ccc;
+      }
+      .navbar-brand {
+        font-family: "Termina Test", "Source Code Pro", monospace;
+        font-weight: 700;
+        font-size: 1.5rem;
+        color: #00315a !important;
+        margin: 0 auto;
+      }
+      .navbar-toggler {
+        border: none;
+      }
+      .navbar-toggler-icon {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .navbar-toggler-icon i {
+        font-size: 1.8rem;
+        color: #00315a;
+      }
+
+      /* Image box */
+      .hero-image {
+        width: 100%;
+        height: 300px;
+        overflow: hidden;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+        margin-bottom: 1.5rem;
+      }
+      .hero-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+      }
+
+      .filter-bar {
+        display: flex;
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        gap: 0.5rem;
+      }
+      .filter-bar a {
+        flex: 0 0 auto;
+      }
+
+      .footer {
+        background-color: rgb(235, 230, 217);
+        color: #00315a;
+        border-top: 1px solid #ccc;
+        font-family: "Source Code Pro", monospace;
+      }
+      .footer-link {
+        color: #00315a;
+        text-decoration: none;
+        font-weight: bold;
+      }
+      .footer-link:hover {
+        color: #005999;
+      }
+      .heart {
+        color: #d62828;
+        font-size: 1.2em;
+      }
+
+      /* Fullscreen Hamburger Overlay */
+      .overlay {
+        height: 0%;
+        width: 100%;
+        position: fixed;
+        z-index: 2000;
+        top: 0;
+        left: 0;
+        background-color: #00315a;
+        overflow-y: hidden;
+        transition: 0.4s;
+      }
+      .overlay-content {
+        position: relative;
+        top: 25%;
+        width: 100%;
+        text-align: center;
+        margin-top: 30px;
+        color: rgb(235, 230, 217);
+        font-family: "Termina Test", "Source Code Pro", monospace;
+        font-size: 1.2rem;
+        line-height: 1.8;
+        padding: 0 20px;
+      }
+      .overlay .closebtn {
+        position: absolute;
+        top: 20px;
+        right: 40px;
+        font-size: 3rem;
+        color: rgb(235, 230, 217);
+        text-decoration: none;
+      }
+      .overlay .closebtn:hover {
+        color: #fff;
+      }
+      .ascii-cat {
+  margin-top: 2rem;
+  font-family: monospace;
+  color: rgb(235,230,217); /* beige */
+  white-space: pre;
+  font-size: 1rem;
+  line-height: 1.2;
+}
+.github-link {
+  font-size: 1.2rem;
+  color: rgb(235,230,217); /* beige */
+  text-decoration: none;
+  font-family: "Termina Test", "Source Code Pro", monospace;
+}
+.github-link:hover {
+  color: #ffffff;
+}
+.github-link i {
+  font-size: 1.5rem;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+.navbar-brand img {
+  display: inline-block;
+  vertical-align: middle;
+}

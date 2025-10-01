@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% block content %}
+<h2 class="mb-4">Upcoming MMA Events</h2>
+
+<div class="filter-bar mb-4">
+  <a href="{{ url_for('index') }}"
+     class="{% if not org_filter or org_filter == 'ALL' %}btn-filter{% else %}btn-filter-outline{% endif %}">
+    ALL
+  </a>
+  <a href="{{ url_for('index', org='UFC') }}"
+     class="{% if org_filter == 'UFC' %}btn-filter{% else %}btn-filter-outline{% endif %}">
+    UFC
+  </a>
+  <a href="{{ url_for('index', org='PFL') }}"
+     class="{% if org_filter == 'PFL' %}btn-filter{% else %}btn-filter-outline{% endif %}">
+    PFL
+  </a>
+  <a href="{{ url_for('index', org='ONE') }}"
+     class="{% if org_filter == 'ONE' %}btn-filter{% else %}btn-filter-outline{% endif %}">
+    ONE
+  </a>
+  <a href="{{ url_for('index', org='Cage Warriors') }}"
+     class="{% if org_filter == 'Cage Warriors' %}btn-filter{% else %}btn-filter-outline{% endif %}">
+    Cage Warriors
+  </a>
+  <a href="{{ url_for('index', org='DWCS') }}"
+     class="{% if org_filter == 'DWCS' %}btn-filter{% else %}btn-filter-outline{% endif %}">
+    DWCS
+  </a>
+  <a href="{{ url_for('index', org='Brave CF') }}"
+     class="{% if org_filter == 'Brave CF' %}btn-filter{% else %}btn-filter-outline{% endif %}">
+    Brave CF
+  </a>
+  <a href="{{ url_for('index', org='Oktagon MMA') }}"
+     class="{% if org_filter == 'Oktagon MMA' %}btn-filter{% else %}btn-filter-outline{% endif %}">
+    Oktagon MMA
+  </a>
+</div>
+
+
+<!-- Event Cards -->
+<div class="row">
+  {% for event in events %}
+  <div class="col-md-6 mb-4">
+    <div class="card shadow-sm h-100 border-0">
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href="{{ url_for('event_page', event_id=event['id']) }}" class="text-decoration-none text-dark">
+            {{ event.name }}
+          </a>
+        </h5>
+        <p class="card-text mb-1">
+          <i class="bi bi-calendar-event me-2"></i>{{ event.date }}
+        </p>
+        <p class="card-text">
+          <i class="bi bi-geo-alt-fill me-2"></i>{{ event.location }}
+        </p>
+      </div>
+    </div>
+  </div>
+  {% else %}
+  <p>No events found.</p>
+  {% endfor %}
+</div>
+{% endblock %}

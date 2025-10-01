@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+{% block content %}
+
+<!-- Event Header Banner -->
+<div class="card shadow-sm mb-4 p-4 text-center" style="background-color: #ffffff; border-radius: 12px;">
+  <h2 class="mb-3">{{ event.name }}</h2>
+  <p class="mb-1"><strong>Date:</strong> {{ event.date }}</p>
+  <p class="mb-1"><strong>Location:</strong> {{ event.location }}</p>
+</div>
+
+<!-- Fight Card Section -->
+<h3 class="mt-4">Fight Card</h3>
+
+<div class="row">
+  {% for fight in event.fights %}
+  <div class="col-md-6 mb-4">
+    <div class="card shadow-sm p-3 h-100">
+      
+      <!-- Badges -->
+      <div class="text-center mb-2">
+        {% if fight.main_event %}
+          <span class="badge bg-primary text-white px-3 py-2 me-2">MAIN EVENT</span>
+        {% endif %}
+        {% if fight.title_fight %}
+          <span class="badge bg-danger text-white px-3 py-2">TITLE FIGHT</span>
+        {% endif %}
+      </div>
+
+      <div class="row align-items-center">
+        <!-- Left fighter -->
+        <div class="col-5 text-center">
+          <img src="{{ fight.fighter_left.image }}" alt="{{ fight.fighter_left.name }}" class="img-fluid rounded mb-2">
+          <h5>{{ fight.fighter_left.name }}</h5>
+          <small>{{ fight.fighter_left.record }}</small>
+        </div>
+
+        <!-- VS -->
+        <div class="col-2 text-center">
+          <h4 class="fw-bold">VS</h4>
+          <p class="text-muted">{{ fight.weight_class }}</p>
+        </div>
+
+        <!-- Right fighter -->
+        <div class="col-5 text-center">
+          <img src="{{ fight.fighter_right.image }}" alt="{{ fight.fighter_right.name }}" class="img-fluid rounded mb-2">
+          <h5>{{ fight.fighter_right.name }}</h5>
+          <small>{{ fight.fighter_right.record }}</small>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+{% endblock %}

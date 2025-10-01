@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>MMA Calendar</title>
+    <link rel="icon" type="image/png" href="{{ url_for('static', filename='pain au chocolat.png') }}">
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+
+
+    <style>
+    
+    </style>
+  </head>
+  <body>
+    <!-- Fixed Navbar -->
+    <nav class="navbar navbar-custom fixed-top">
+      <div class="container-fluid d-flex align-items-center">
+        <!-- Hamburger -->
+        <button
+          class="navbar-toggler d-block"
+          type="button"
+          onclick="openNav()"
+        >
+          <span class="navbar-toggler-icon">
+            <i class="bi bi-list"></i>
+          </span>
+        </button>
+
+        <!-- Title -->
+<a href="\" class="navbar-brand d-flex align-items-center">
+  <img src="{{ url_for('static', filename='pain au chocolat.png') }}" 
+       alt="Logo" 
+       style="height:50px; width:auto; margin-right:8px;">
+  MMA Calendar
+</a>      </div>
+    </nav>
+
+    <!-- Fullscreen Hamburger Menu -->
+   <div id="myNav" class="overlay">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <div class="overlay-content">
+    <p>I wanted a place where I could look up all MMA events.</p>
+    <p>This website uses a scraper to get data from Sherdog.</p>
+    <p>Find it on my github: 
+     <a href="https://github.com/sanild" target="_blank" class="github-link">
+      <i class="bi bi-github"></i>
+    </a></p>
+
+    <p class="mt-3">Sanil</p>
+    <!-- ASCII Cat -->
+    <pre class="ascii-cat">
+            　　　／＞　　フ
+
+      　　　 　　 | 　_　 _ l
+      　 　　 　／` ミ＿xノ
+      　　 　 /　　　 　 |
+      　　　 /　 ヽ　　 ﾉ
+      　 　 │　　|　|　|
+      　／￣|　　 |　|　|
+      　| (￣ヽ＿_ヽ_)__)
+    ＼二つ
+    </pre>
+  </div>
+</div>
+
+    <!-- Main Content Wrapper -->
+    <div class="container py-5 mt-5">
+      <!-- Hero banner -->
+      <div class="hero-image">
+        <img
+          src="https://www.ufc.com/images/styles/gallery_collapsed_desktop_2x/s3/2024-04/GettyImages-2148563784.jpg?itok=-NkDHs9c"
+          alt="UFC Event Banner"
+        />
+      </div>
+
+      {% block content %}{% endblock %}
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+      function openNav() {
+        document.getElementById("myNav").style.height = "100%";
+      }
+      function closeNav() {
+        document.getElementById("myNav").style.height = "0%";
+      }
+    </script>
+
+    <!-- Footer -->
+    <footer class="footer mt-5 py-3 text-center">
+      <p>
+        <a
+          href="https://github.com/sanild"
+          target="_blank"
+          class="footer-link"
+          >github.com/sanild</a
+        >
+      </p>
+      <p>Made with <span class="heart">♥</span></p>
+    </footer>
+  </body>
+</html>

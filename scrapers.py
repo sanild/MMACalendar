@@ -6,22 +6,33 @@ import pytz
 BASE_URL = "https://www.sherdog.com"
 EVENTS_URL = "https://www.sherdog.com/events"
 
+# Stronger headers to avoid 403 on Render
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/120.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Referer": "https://www.google.com/",
+    "Connection": "keep-alive",
+}
+
 # Timezones
 UTC = pytz.utc
 EST = pytz.timezone("US/Eastern")
 IST = pytz.timezone("Asia/Kolkata")
 
 
-def format_date(date_str: str) -> str:
-    """Convert ISO date string to EST and IST friendly format."""
+def format_date(date_str: str) -> tuple[str, datetime]:
+    """Convert ISO date string to EST and IST friendly format, return formatted string and IST datetime."""
     dt_utc = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
     dt_utc = dt_utc.astimezone(UTC)
 
-    # Convert to EST and IST
     dt_est = dt_utc.astimezone(EST)
     dt_ist = dt_utc.astimezone(IST)
 
-    # Format with day suffix
     def pretty_format(dt):
         day = dt.day
         suffix = "th" if 11 <= day <= 13 else {1: "st", 2: "nd", 3: "rd"}.get(day % 10, "th")
@@ -31,7 +42,7 @@ def format_date(date_str: str) -> str:
 
 
 def scrape_events_list():
-    response = requests.get(EVENTS_URL, headers={"User-Agent": "Mozilla/5.0"})
+    response = requests.get(EVENTS_URL, headers=HEADERS, timeout=10)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, "html.parser")
 
@@ -43,17 +54,17 @@ def scrape_events_list():
         date_raw = row.select_one("meta[itemprop='startDate']")["content"]
         date_str, dt_ist = format_date(date_raw)
 
-        # Cutoff = midnight (00:00) IST on event date
+        # Cutoff = midnight IST on event date
         cutoff = dt_ist.replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(days=1)
 
-        # Skip if current IST is past cutoff
+        # Skip if already past cutoff
         if now_ist > cutoff:
             continue
 
         raw_name = row.select_one("meta[itemprop='name']").get("content")
         org = row.select_one("td:nth-of-type(2) a").get_text(strip=True)
 
-        # Clean duplication
+        # Clean duplication (avoid Foo - Foo: Bar (Foo))
         if org.lower() in raw_name.lower():
             name = raw_name
         else:
@@ -76,7 +87,7 @@ def scrape_events_list():
 
 
 def scrape_event_details(event_url):
-    response = requests.get(event_url, headers={"User-Agent": "Mozilla/5.0"})
+    response = requests.get(event_url, headers=HEADERS, timeout=10)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, "html.parser")
 
@@ -87,7 +98,7 @@ def scrape_event_details(event_url):
 
     fights = []
 
-    # --- Main event fight cards ---
+    # Main card
     fight_cards = soup.select("div.fight_card")
     for fight in fight_cards:
         left_name = fight.select_one(".fighter.left_side span[itemprop='name']").get_text(strip=True)
@@ -114,7 +125,7 @@ def scrape_event_details(event_url):
             "weight_class": weight_class
         })
 
-    # --- Undercard fights ---
+    # Undercard
     subevents = soup.select("tr[itemprop='subEvent']")
     for row in subevents:
         left_name = row.select_one("td.text_right span[itemprop='name']").get_text(" ", strip=True)

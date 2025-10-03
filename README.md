@@ -8,6 +8,7 @@ The app allows users to browse upcoming fight cards, filter by organization (UFC
 
 ## 📸 Demo
 
+![alt text](https://github.com/sanild/MMACalendar/blob/main/static/Screenshot.png?raw=true)
 
 
 ---

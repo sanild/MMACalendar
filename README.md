@@ -43,13 +43,13 @@ The app allows users to browse upcoming fight cards, filter by organization (UFC
 
 Clone this repository, create a virtual environment, install dependencies, and run the app:
 
-git clone https://github.com/sanild/mmacalendar.git
+git clone https://github.com/sanild/mmacalendar.git <br />
 cd mmacalendar
 
 # Create and activate a virtual environment
-python -m venv .venv
-source .venv/bin/activate   # macOS/Linux
-.venv\Scripts\activate      # Windows
+python -m venv .venv<br />
+source .venv/bin/activate   # macOS/Linux<br />
+.venv\Scripts\activate      # Windows<br />
 
 # Install dependencies
 pip install -r requirements.txt

@@ -42,33 +42,67 @@ ORG_ALIASES = {
 
 
 def load_events():
+    from datetime import timezone, timedelta
+
     with open("events.json", "r") as f:
         data = json.load(f)
 
         # Case 1: your current format → [ { "events": [ ... ] } ]
         if isinstance(data, list) and len(data) > 0 and "events" in data[0]:
-            return data[0]["events"]
-
+            events = data[0]["events"]
         # Case 2: dict with "events"
-        if isinstance(data, dict) and "events" in data:
-            return data["events"]
-
+        elif isinstance(data, dict) and "events" in data:
+            events = data["events"]
         # Case 3: already just a list of events
-        if isinstance(data, list):
-            return data
+        elif isinstance(data, list):
+            events = data
+        else:
+            events = []
 
-        return []
+    # Filter out past events by IST cutoff
+    now_ist = datetime.now(timezone(timedelta(hours=5, minutes=30)))
+    valid_events = []
+    for e in events:
+        date_str = e.get("date")
+        if not date_str:
+            continue
+        try:
+            dt = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+            dt_ist = dt.astimezone(timezone(timedelta(hours=5, minutes=30)))
+            cutoff = dt_ist.replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(days=1)
+            if now_ist <= cutoff:
+                valid_events.append(e)
+        except Exception:
+            valid_events.append(e)  # fallback if parsing fails
 
+    return valid_events
 
 @app.template_filter("pretty_date")
 def pretty_date_filter(date_str):
-    """Format ISO date into readable form"""
+    """Format ISO date into EST and IST friendly format with weekday"""
+    from datetime import timezone, timedelta
+
     try:
+        # Parse the ISO datetime
         dt = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
-        suffix = "th" if 11 <= dt.day <= 13 else {1: "st", 2: "nd", 3: "rd"}.get(dt.day % 10, "th")
-        return dt.strftime(f"%-d{suffix} %B %Y, %-I:%M %p")
+
+        # Define offsets for EST and IST
+        EST = timezone(timedelta(hours=-5))
+        IST = timezone(timedelta(hours=5, minutes=30))
+
+        dt_est = dt.astimezone(EST)
+        dt_ist = dt.astimezone(IST)
+
+        def pretty_format(dt):
+            day = dt.day
+            suffix = "th" if 11 <= day <= 13 else {1: "st", 2: "nd", 3: "rd"}.get(day % 10, "th")
+            # Add weekday (%A)
+            return dt.strftime(f"%A, %-d{suffix} %B %Y, %-I:%M %p")
+
+        return f"{pretty_format(dt_est)} EST | {pretty_format(dt_ist)} IST"
     except Exception:
         return date_str
+
 
 
 @app.route("/")

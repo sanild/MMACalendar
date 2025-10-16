@@ -2,7 +2,7 @@
         font-family: "Source Code Pro", monospace;
         color: #00315a;
         background-color: rgb(235, 230, 217);
-        background-image: url("{{ url_for('static', filename='Frame-5017.svg') }}");
+        background-image: url("/static/Frame-5017.svg"); /* direct path */
         background-repeat: no-repeat;
         background-position: center center;
         background-attachment: fixed;

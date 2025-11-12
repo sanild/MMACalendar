@@ -1,413 +1,5 @@
 [
   {
-    "date": "2025-11-02T00:00:00+00:00",
-    "name": "One Pride MMA Fight Night 88 - Battle For Glory",
-    "url": "https://www.sherdog.com/events/One-Pride-MMA-Fight-Night-88-Battle-For-Glory-109041",
-    "location": "HW Superhouse Satrio, South Jakarta, Jakarta, Indonesia"
-  },
-  {
-    "date": "2025-11-02T00:00:00+00:00",
-    "name": "Anthony Pettis FC 20 - Milwaukee Fight Night 9",
-    "url": "https://www.sherdog.com/events/Anthony-Pettis-FC-20-Milwaukee-Fight-Night-9-109512",
-    "location": "Potawotami Casino Event Center, Milwaukee, Wisconsin, United States"
-  },
-  {
-    "date": "2025-11-02T00:00:00+00:00",
-    "name": "LFL 20 - Levels Fight League 20",
-    "url": "https://www.sherdog.com/events/LFL-20-Levels-Fight-League-20-109548",
-    "location": "Mediahaven, Amsterdam, Netherlands"
-  },
-  {
-    "date": "2025-11-02T00:00:00+00:00",
-    "name": "Deep - 128 Impact",
-    "url": "https://www.sherdog.com/events/Deep-128-Impact-109631",
-    "location": "Korakuen Hall, Bunkyo, Tokyo, Japan"
-  },
-  {
-    "date": "2025-11-02T00:00:00+00:00",
-    "name": "LFL - New Talent 16",
-    "url": "https://www.sherdog.com/events/LFL-New-Talent-16-109936",
-    "location": "Mediahaven, Amsterdam, Netherlands"
-  },
-  {
-    "date": "2025-11-02T00:00:00+00:00",
-    "name": "Bloom FC 5 - Bloom Fighting Championship 5",
-    "url": "https://www.sherdog.com/events/Bloom-FC-5-Bloom-Fighting-Championship-5-110001",
-    "location": "Acros Fukuoka, Fukuoka, Fukuoka, Japan"
-  },
-  {
-    "date": "2025-11-02T00:00:00+00:00",
-    "name": "Geneva Academy of Mixed Martial Arts - GAMMA Open Cage 10",
-    "url": "https://www.sherdog.com/events/Geneva-Academy-of-Mixed-Martial-Arts-GAMMA-Open-Cage-10-110190",
-    "location": "Gamma Gym, Geneva, Switzerland"
-  },
-  {
-    "date": "2025-11-02T18:00:00+00:00",
-    "name": "MMA Quest 15 - Palaiologos vs Jakopic",
-    "url": "https://www.sherdog.com/events/MMA-Quest-15-Palaiologos-vs-Jakopic-110147",
-    "location": "Athens, Greece"
-  },
-  {
-    "date": "2025-11-03T00:00:00+00:00",
-    "name": "Rizin FF - Landmark Vol. 12",
-    "url": "https://www.sherdog.com/events/Rizin-FF-Landmark-Vol-12-109056",
-    "location": "Glion Arena Kobe, Kobe, Hyogo, Japan"
-  },
-  {
-    "date": "2025-11-03T00:00:00+00:00",
-    "name": "HFL 13 - Heroes 13",
-    "url": "https://www.sherdog.com/events/HFL-13-Heroes-13-110100",
-    "location": "Sala Sporturilor, Buzau, Romania"
-  },
-  {
-    "date": "2025-11-04T00:00:00+00:00",
-    "name": "Jue Cheng King - JCK Fight Night 109",
-    "url": "https://www.sherdog.com/events/Jue-Cheng-King-JCK-Fight-Night-109-110186",
-    "location": "Phnom Penh, Cambodia"
-  },
-  {
-    "date": "2025-11-06T00:00:00+00:00",
-    "name": "EFC 129 - EFC Worldwide 129",
-    "url": "https://www.sherdog.com/events/EFC-129-EFC-Worldwide-129-106244",
-    "location": "World Sports Betting Arena - EFC Performance Institute, Sandton, South Africa"
-  },
-  {
-    "date": "2025-11-06T00:00:00+00:00",
-    "name": "FFC 98 - Llontop vs. Barrios",
-    "url": "https://www.sherdog.com/events/FFC-98-Llontop-vs-Barrios-110158",
-    "location": "Barranco Convetion Center, Barranco, Lima, Peru"
-  },
-  {
-    "date": "2025-11-06T00:00:00+00:00",
-    "name": "OFC 58 - Open Fighting Championship 58",
-    "url": "https://www.sherdog.com/events/OFC-58-Open-Fighting-Championship-58-110185",
-    "location": "MTL Arena, Samara, Russia"
-  },
-  {
-    "date": "2025-11-07T00:00:00+00:00",
-    "name": "One Championship - One on Prime Video 37",
-    "url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-37-108248",
-    "location": "Lumpinee Boxing Stadium, Bangkok, Thailand"
-  },
-  {
-    "date": "2025-11-07T00:00:00+00:00",
-    "name": "Elite Fight Night - EFN 28: Rumble at Hard Rock",
-    "url": "https://www.sherdog.com/events/Elite-Fight-Night-EFN-28-Rumble-at-Hard-Rock-108320",
-    "location": "Hard Rock Casino Northern Indiana, Gary, Indiana, United States"
-  },
-  {
-    "date": "2025-11-07T00:00:00+00:00",
-    "name": "HXMMA 36 - Hexagone MMA 36",
-    "url": "https://www.sherdog.com/events/HXMMA-36-Hexagone-MMA-36-109112",
-    "location": "MET Arena, Szekesfehervar, Hungary"
-  },
-  {
-    "date": "2025-11-07T00:00:00+00:00",
-    "name": "Urijah Faber's A1 Combat 32 - Brand vs. Ewing",
-    "url": "https://www.sherdog.com/events/Urijah-Fabers-A1-Combat-32-Brand-vs-Ewing-109474",
-    "location": "Hard Rock Live, Wheatland, California, United States"
-  },
-  {
-    "date": "2025-11-07T00:00:00+00:00",
-    "name": "Brave CF 100 - Brave Combat Federation 100",
-    "url": "https://www.sherdog.com/events/Brave-CF-100-Brave-Combat-Federation-100-109563",
-    "location": "Khalifa Sports City Arena, Isa Town, Bahrain"
-  },
-  {
-    "date": "2025-11-07T00:00:00+00:00",
-    "name": "ACA 195 - Kornilov vs. Vakhaev",
-    "url": "https://www.sherdog.com/events/ACA-195-Kornilov-vs-Vakhaev-109696",
-    "location": "Sibur Arena, St. Petersburg, Russia"
-  },
-  {
-    "date": "2025-11-07T00:00:00+00:00",
-    "name": "LFA 221 - Clark vs. Consuli",
-    "url": "https://www.sherdog.com/events/LFA-221-Clark-vs-Consuli-109723",
-    "location": "Nilson Nelson Gymnasium, Brasilia, Federal District, Brazil"
-  },
-  {
-    "date": "2025-11-07T00:00:00+00:00",
-    "name": "Ultimate Combat Challenge 81 - UCC 81",
-    "url": "https://www.sherdog.com/events/Ultimate-Combat-Challenge-81-UCC-81-109963",
-    "location": "Parque de la Industria, Guatemala City, Guatemala"
-  },
-  {
-    "date": "2025-11-07T00:00:00+00:00",
-    "name": "CFFC 148 - Cage Fury Fighting Championships 148: Guarascio vs. Gonzales",
-    "url": "https://www.sherdog.com/events/CFFC-148-Cage-Fury-Fighting-Championships-148-Guarascio-vs-Gonzales-110028",
-    "location": "2300 Arena, Philadelphia, Pennsylvania, United States"
-  },
-  {
-    "date": "2025-11-07T00:00:00+00:00",
-    "name": "Super League MMA 6 - Only the Strong Will Survive",
-    "url": "https://www.sherdog.com/events/Super-League-MMA-6-Only-the-Strong-Will-Survive-110213",
-    "location": "Zenith D'Auvergne, Clermont-Ferrand, France"
-  },
-  {
-    "date": "2025-11-07T00:00:00+00:00",
-    "name": "One Championship - One Friday Fights 132",
-    "url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-132-110272",
-    "location": "Lumpinee Boxing Stadium, Bangkok, Thailand"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "KOTC - Future Legends 65",
-    "url": "https://www.sherdog.com/events/KOTC-Future-Legends-65-106375",
-    "location": "Silver Legacy Resort Casino, Reno, Nevada, United States"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "BTC 34 - Iron Forged",
-    "url": "https://www.sherdog.com/events/BTC-34-Iron-Forged-108675",
-    "location": "Hamilton Convention Centre, Hamilton, Ontario, Canada"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "Northwest Fight Promotions - Clinch Fight Club 13",
-    "url": "https://www.sherdog.com/events/Northwest-Fight-Promotions-Clinch-Fight-Club-13-109025",
-    "location": "Legends Casino, Toppenish, Washington, United States"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "Beat Down Championship - War Is On",
-    "url": "https://www.sherdog.com/events/Beat-Down-Championship-War-Is-On-109303",
-    "location": "Uberaba Tenis Clube, Uberaba, Minas Gerais, Brazil"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "Dragon House MMA - Zhong Luo Cage Fighting Series 15",
-    "url": "https://www.sherdog.com/events/Dragon-House-MMA-Zhong-Luo-Cage-Fighting-Series-15-109344",
-    "location": "Kezar Pavilion, San Francisco, California, United States"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "UFC on ESPN 73 - Bonfim vs. Brown",
-    "url": "https://www.sherdog.com/events/UFC-on-ESPN-73-Bonfim-vs-Brown-109395",
-    "location": "UFC Apex, Las Vegas, Nevada, United States"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "Beatdown 12 - Beatdown Promotions",
-    "url": "https://www.sherdog.com/events/Beatdown-12-Beatdown-Promotions-109399",
-    "location": "Eatons Hill, Moreton Bay, Queensland, Australia"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "COH 95 - Cage of Honor 95",
-    "url": "https://www.sherdog.com/events/COH-95-Cage-of-Honor-95-109498",
-    "location": "AC Brase Arena, Cape Girardeau, Missouri, United States"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "NEF 64 - Call To Arms",
-    "url": "https://www.sherdog.com/events/NEF-64-Call-To-Arms-109521",
-    "location": "Cross Center, Bangor, Maine, United States"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "209 - Beatdown 26",
-    "url": "https://www.sherdog.com/events/209-Beatdown-26-109578",
-    "location": "Stockton Memorial Civic Auditorium, Stockton, California, United States"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "CDN 2 - Combates del Norte 2",
-    "url": "https://www.sherdog.com/events/CDN-2-Combates-del-Norte-2-109597",
-    "location": "Uncaus Arena Stadium, Presidencia Roque Saenz Pena, Chaco, Argentina"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "247 FC - MMA at the Venue 3",
-    "url": "https://www.sherdog.com/events/247-FC-MMA-at-the-Venue-3-109602",
-    "location": "Sunny Days Arena at The Venue, North Versailles, Pennsylvania, United States"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "Team Silva Las Aguilas - Cacique Catriel MMA",
-    "url": "https://www.sherdog.com/events/Team-Silva-Las-Aguilas-Cacique-Catriel-MMA-109609",
-    "location": "Catriel, Rio Negro, Argentina"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "Real Cage Fighting - Space Coast Fight Night",
-    "url": "https://www.sherdog.com/events/Real-Cage-Fighting-Space-Coast-Fight-Night-109620",
-    "location": "Wickham Park Community Center, Melbourne, Florida, United States"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "Dynamite MMA 4 - Margarian vs. Loureiro",
-    "url": "https://www.sherdog.com/events/Dynamite-MMA-4-Margarian-vs-Loureiro-109629",
-    "location": "Sud de France Arena, Montpellier, France"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "Troncal Fight League 12 - Mi Raza",
-    "url": "https://www.sherdog.com/events/Troncal-Fight-League-12-Mi-Raza-109756",
-    "location": "TFL Gym Arena, La Troncal, Canar, Ecuador"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "FEN 60 - Ostrowski vs. Janur",
-    "url": "https://www.sherdog.com/events/FEN-60-Ostrowski-vs-Janur-109857",
-    "location": "Hali Relax, Piotrkow Trybunalski, Poland"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "Synergy FC 24 - Synergy Fighting Championship",
-    "url": "https://www.sherdog.com/events/Synergy-FC-24-Synergy-Fighting-Championship-109939",
-    "location": "Shrine Mosque, Springfield, Missouri, United States"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "FRL 44 - Real Fight League 44",
-    "url": "https://www.sherdog.com/events/FRL-44-Real-Fight-League-44-109958",
-    "location": "Cortijo Miguel Ortas, Atizapan de Zaragoza, Estado de Mexico, Mexico"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "CAM 34 - Circuito Argentino de MMA 34",
-    "url": "https://www.sherdog.com/events/CAM-34-Circuito-Argentino-de-MMA-34-110030",
-    "location": "Buenos Aires, Argentina"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "BFC 3 - Bosnian Fighting Championship 3",
-    "url": "https://www.sherdog.com/events/BFC-3-Bosnian-Fighting-Championship-3-110031",
-    "location": "Sportska Dvorana Srebrenik, Srebrenik, Bosnia and Herzegovina"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "MCF 29 - Salute to Veterans 5",
-    "url": "https://www.sherdog.com/events/MCF-29-Salute-to-Veterans-5-110032",
-    "location": "D&N Event Center, North Platte, Nebraska, United States"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "Horsepower Promotions - Super Fight Night",
-    "url": "https://www.sherdog.com/events/Horsepower-Promotions-Super-Fight-Night-110033",
-    "location": "Grady City Fairgrounds, Chickasha, Oklahoma, United States"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "CES MMA 82 - Fight for a Cause 3",
-    "url": "https://www.sherdog.com/events/CES-MMA-82-Fight-for-a-Cause-3-110034",
-    "location": "Park Theater, Cranston, Rhode Island, United States"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "Hamara MMA - Vol. 8",
-    "url": "https://www.sherdog.com/events/Hamara-MMA-Vol-8-110101",
-    "location": "Kupittaan Palloiluhalli, Turku, Finland"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "IMMA 10 - Imperium MMA 10",
-    "url": "https://www.sherdog.com/events/IMMA-10-Imperium-MMA-10-110102",
-    "location": "Club Olimpico, Villa Gobernador Galvez, Santa Fe, Argentina"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "K4 Fighting and Art of Combat SC - Battlefield",
-    "url": "https://www.sherdog.com/events/K4-Fighting-and-Art-of-Combat-SC-Battlefield-110103",
-    "location": "Buffalo Riverworks, Buffalo, New York, United States"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "PF 3 - Prime Fighting",
-    "url": "https://www.sherdog.com/events/PF-3-Prime-Fighting-110104",
-    "location": "Seige MMA & Performance, Hattiesburg, Mississippi, United States"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "Square Ring Promotions - Island Fights 92",
-    "url": "https://www.sherdog.com/events/Square-Ring-Promotions-Island-Fights-92-110105",
-    "location": "Pensacola Bay Center, Pensacola, Florida, United States"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "Xtreme Fighting Alliance - XFA Fight Night 7",
-    "url": "https://www.sherdog.com/events/Xtreme-Fighting-Alliance-XFA-Fight-Night-7-110166",
-    "location": "National Guard Armory, Knoxville City, Tennessee, United States"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "Tuff-N-Uff - Round 14: Operation Knockout",
-    "url": "https://www.sherdog.com/events/TuffNUff-Round-14-Operation-Knockout-110178",
-    "location": "Downtown Las Vegas Events Center, Las Vegas, Nevada, United States"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "Born To Fight - Purple In The Cage",
-    "url": "https://www.sherdog.com/events/Born-To-Fight-Purple-In-The-Cage-110187",
-    "location": "Palataurus, Lecco, Italy"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "Future FC - Future MMA 16",
-    "url": "https://www.sherdog.com/events/Future-FC-Future-MMA-16-110188",
-    "location": "Brasilia, Federal District, Brazil"
-  },
-  {
-    "date": "2025-11-08T00:00:00+00:00",
-    "name": "Jue Cheng King - JCK Fight Night 110",
-    "url": "https://www.sherdog.com/events/Jue-Cheng-King-JCK-Fight-Night-110-110189",
-    "location": "JCK International Fighting Center, Luliang, Shanxi, China"
-  },
-  {
-    "date": "2025-11-08T19:00:00+00:00",
-    "name": "EF  - Extreme Fight 5",
-    "url": "https://www.sherdog.com/events/EF-Extreme-Fight-5-109948",
-    "location": "Novo Repartimento, Belem, Para, Brazil"
-  },
-  {
-    "date": "2025-11-09T00:00:00+00:00",
-    "name": "Fury FC 111 - Fury Fighting Championship 111",
-    "url": "https://www.sherdog.com/events/Fury-FC-111-Fury-Fighting-Championship-111-109677",
-    "location": "Imagen Venues Escapade 2001, Houston, Texas, United States"
-  },
-  {
-    "date": "2025-11-09T00:00:00+00:00",
-    "name": "Warrior's Dream Series - WDS 14",
-    "url": "https://www.sherdog.com/events/Warriors-Dream-Series-WDS-14-109941",
-    "location": "Nerul, Navi Mumbai, Maharashtra, India"
-  },
-  {
-    "date": "2025-11-09T00:00:00+00:00",
-    "name": "Arena Global - Arena Global 36",
-    "url": "https://www.sherdog.com/events/Arena-Global-Arena-Global-36-109969",
-    "location": "Rio de Janeiro, Rio de Janeiro, Brazil"
-  },
-  {
-    "date": "2025-11-09T00:00:00+00:00",
-    "name": "Brave CF 101 - Brave Combat Federation 101",
-    "url": "https://www.sherdog.com/events/Brave-CF-101-Brave-Combat-Federation-101-110054",
-    "location": "Khalifa Sports City Arena, Isa Town, Bahrain"
-  },
-  {
-    "date": "2025-11-09T00:00:00+00:00",
-    "name": "Grachan - Grachan 78",
-    "url": "https://www.sherdog.com/events/Grachan-Grachan-78-110202",
-    "location": "Chateraise Gateau Kingdom Sapporo, Sapporo, Hokkaido, Japan"
-  },
-  {
-    "date": "2025-11-09T12:30:00+00:00",
-    "name": "Pancrase - 358",
-    "url": "https://www.sherdog.com/events/Pancrase-358-109453",
-    "location": "New Pier Hall, Minato, Tokyo, Japan"
-  },
-  {
-    "date": "2025-11-09T17:10:00+00:00",
-    "name": "Pancrase - 359",
-    "url": "https://www.sherdog.com/events/Pancrase-359-109454",
-    "location": "New Pier Hall, Minato, Tokyo, Japan"
-  },
-  {
-    "date": "2025-11-11T00:00:00+00:00",
-    "name": "Chaos FC 25 - Chaos Fighting Championships 25",
-    "url": "https://www.sherdog.com/events/Chaos-FC-25-Chaos-Fighting-Championships-25-110035",
-    "location": "Everglades Hotel, Derry, Northern Ireland"
-  },
-  {
     "date": "2025-11-14T00:00:00+00:00",
     "name": "Eternal MMA 100 - Gold Coast",
     "url": "https://www.sherdog.com/events/Eternal-MMA-100-Gold-Coast-108686",
@@ -418,12 +10,6 @@
     "name": "Invincible 3 - Invincible Fighting Championship",
     "url": "https://www.sherdog.com/events/Invincible-3-Invincible-Fighting-Championship-109044",
     "location": "Robert Hartley Sports Complex Arena, Hawkesbury, Ontario, Canada"
-  },
-  {
-    "date": "2025-11-14T00:00:00+00:00",
-    "name": "Fierce FC - Fierce Fighting Championship",
-    "url": "https://www.sherdog.com/events/Fierce-FC-Fierce-Fighting-Championship-109314",
-    "location": "Salt Lake Masonic Temple, Salt Lake City, Utah, United States"
   },
   {
     "date": "2025-11-14T00:00:00+00:00",
@@ -465,7 +51,19 @@
     "date": "2025-11-14T00:00:00+00:00",
     "name": "Fierce FC - Fierce Challenger Series 18",
     "url": "https://www.sherdog.com/events/Fierce-FC-Fierce-Challenger-Series-18-110192",
-    "location": "The Masonic Temple, Salt Lake City, Utah, United States"
+    "location": "Salt Lake Masonic Temple, Salt Lake City, Utah, United States"
+  },
+  {
+    "date": "2025-11-14T00:00:00+00:00",
+    "name": "One Championship - One Friday Fights 133",
+    "url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-133-110332",
+    "location": "Lumpinee Boxing Stadium, Bangkok, Thailand"
+  },
+  {
+    "date": "2025-11-14T00:00:00+00:00",
+    "name": "IFC - Imperio Fight Night",
+    "url": "https://www.sherdog.com/events/IFC-Imperio-Fight-Night-110337",
+    "location": "Anfiteatro Parque Sarmiento, Río Cuarto, Córdoba, Argentina"
   },
   {
     "date": "2025-11-15T00:00:00+00:00",
@@ -496,6 +94,12 @@
     "name": "Eternal MMA 101 - Gold Coast",
     "url": "https://www.sherdog.com/events/Eternal-MMA-101-Gold-Coast-108687",
     "location": "Southport Sharks, Southport, Queensland, Australia"
+  },
+  {
+    "date": "2025-11-15T00:00:00+00:00",
+    "name": "BFX - Noche de Campeonato",
+    "url": "https://www.sherdog.com/events/BFX-Noche-de-Campeonato-109104",
+    "location": "Palenque de Gallos, Zacatlan, Puebla, Mexico"
   },
   {
     "date": "2025-11-15T00:00:00+00:00",
@@ -541,9 +145,15 @@
   },
   {
     "date": "2025-11-15T00:00:00+00:00",
+    "name": "Chaos FC 25 - Chaos Fighting Championships 25",
+    "url": "https://www.sherdog.com/events/Chaos-FC-25-Chaos-Fighting-Championships-25-110035",
+    "location": "Everglades Hotel, Derry, Northern Ireland"
+  },
+  {
+    "date": "2025-11-15T00:00:00+00:00",
     "name": "CW 196 - Cage Warriors 196: London",
     "url": "https://www.sherdog.com/events/CW-196-Cage-Warriors-196-London-110042",
-    "location": "Indigo at the O2, London, England"
+    "location": "Indigo at the O2, London, Greater London, England"
   },
   {
     "date": "2025-11-15T00:00:00+00:00",
@@ -601,8 +211,8 @@
   },
   {
     "date": "2025-11-15T00:00:00+00:00",
-    "name": "UAE Warriors 65 - Nov 15.",
-    "url": "https://www.sherdog.com/events/UAE-Warriors-65-Nov-15-110135",
+    "name": "UAE Warriors 65 - Silva vs Oliveira",
+    "url": "https://www.sherdog.com/events/UAE-Warriors-65-Silva-vs-Oliveira-110135",
     "location": "Al Ain, United Arab Emirates"
   },
   {
@@ -634,6 +244,72 @@
     "name": "Real Fight Arena 26 - RFA 26",
     "url": "https://www.sherdog.com/events/Real-Fight-Arena-26-RFA-26-110236",
     "location": "Steel Arena, Kosice, Slovakia"
+  },
+  {
+    "date": "2025-11-15T00:00:00+00:00",
+    "name": "BGC - Brasil Grand Champion 6",
+    "url": "https://www.sherdog.com/events/BGC-Brasil-Grand-Champion-6-110291",
+    "location": "Mossoro, Rio Grande do Norte, Brazil"
+  },
+  {
+    "date": "2025-11-15T00:00:00+00:00",
+    "name": "CEF 14 - Coliseu Extreme Fight 14",
+    "url": "https://www.sherdog.com/events/CEF-14-Coliseu-Extreme-Fight-14-110338",
+    "location": "Ginásio Esportivo João Paulo II, Arapiraca, Alagoas, Brazil"
+  },
+  {
+    "date": "2025-11-15T00:00:00+00:00",
+    "name": "FRIMMA - Warrior Fight Night",
+    "url": "https://www.sherdog.com/events/FRIMMA-Warrior-Fight-Night-110339",
+    "location": "Gymnase de Bel-Air Sainte Suzanne, Réunion, France"
+  },
+  {
+    "date": "2025-11-15T00:00:00+00:00",
+    "name": "CFS 18 - Cage Fight Series 18",
+    "url": "https://www.sherdog.com/events/CFS-18-Cage-Fight-Series-18-110340",
+    "location": "Schwarzl Freizeit Zentrum, Schwarzlsee, Graz, Austria"
+  },
+  {
+    "date": "2025-11-15T00:00:00+00:00",
+    "name": "CWA - Cage Warriors Academy Italy 17",
+    "url": "https://www.sherdog.com/events/CWA-Cage-Warriors-Academy-Italy-17-110342",
+    "location": "Tarantini Fight Club, Sassari, Italy"
+  },
+  {
+    "date": "2025-11-15T00:00:00+00:00",
+    "name": "Elite Fighting Promotions 6 - The Sound and The Fury",
+    "url": "https://www.sherdog.com/events/Elite-Fighting-Promotions-6-The-Sound-and-The-Fury-110343",
+    "location": "Empire, Albany, New York, United States"
+  },
+  {
+    "date": "2025-11-15T00:00:00+00:00",
+    "name": "MFL 2 - Mexico Fight League 2",
+    "url": "https://www.sherdog.com/events/MFL-2-Mexico-Fight-League-2-110344",
+    "location": "Sala Urbana, Naucalpan de Juárez, Estado de México, Mexico"
+  },
+  {
+    "date": "2025-11-15T00:00:00+00:00",
+    "name": "Violence Fight League - VFL 5: Fall Season",
+    "url": "https://www.sherdog.com/events/Violence-Fight-League-VFL-5-Fall-Season-110345",
+    "location": "The Complex, Lincoln, Nebraska, United States"
+  },
+  {
+    "date": "2025-11-15T00:00:00+00:00",
+    "name": "Gladiator MMA - Gladiator Wars 3",
+    "url": "https://www.sherdog.com/events/Gladiator-MMA-Gladiator-Wars-3-110346",
+    "location": "Lake County Sports Center, Waukegan, Illinois, United States"
+  },
+  {
+    "date": "2025-11-15T00:00:00+00:00",
+    "name": "ExciteFight - Battle at the Creek",
+    "url": "https://www.sherdog.com/events/ExciteFight-Battle-at-the-Creek-110347",
+    "location": "Little Creek Casino, Shelton, Washington, United States"
+  },
+  {
+    "date": "2025-11-15T00:00:00+00:00",
+    "name": "Combate Extremo - Monterrey",
+    "url": "https://www.sherdog.com/events/Combate-Extremo-Monterrey-110380",
+    "location": "Jose Sulaiman Arena, Monterrey, Nuevo Leon, Mexico"
   },
   {
     "date": "2025-11-16T00:00:00+00:00",
@@ -676,6 +352,12 @@
     "name": "ACA YE 60 - ACA Young Eagles 60",
     "url": "https://www.sherdog.com/events/ACA-YE-60-ACA-Young-Eagles-60-110172",
     "location": "Sport Hall Colosseum, Grozny, Chechnya, Russia"
+  },
+  {
+    "date": "2025-11-20T00:00:00+00:00",
+    "name": "BPL 1 - Boburiylar Pro Ligasi",
+    "url": "https://www.sherdog.com/events/BPL-1-Boburiylar-Pro-Ligasi-110348",
+    "location": "SC ”Universal”, Andijan, Uzbekistan"
   },
   {
     "date": "2025-11-21T00:00:00+00:00",
@@ -756,6 +438,18 @@
     "location": "Bayou City Event Center, Houston, Texas, United States"
   },
   {
+    "date": "2025-11-21T00:00:00+00:00",
+    "name": "MFC 11 - Matador Fighter Challenge 11",
+    "url": "https://www.sherdog.com/events/MFC-11-Matador-Fighter-Challenge-11-110349",
+    "location": "Cicero Stadium, Cicero, Illinois, United States"
+  },
+  {
+    "date": "2025-11-21T00:00:00+00:00",
+    "name": "XFM 23 - Chavez vs. Luna",
+    "url": "https://www.sherdog.com/events/XFM-23-Chavez-vs-Luna-110350",
+    "location": "Circo Teatro Renacimiento, Campeche, Campeche, Mexico"
+  },
+  {
     "date": "2025-11-22T00:00:00+00:00",
     "name": "HFS - Hex Fight Series 37",
     "url": "https://www.sherdog.com/events/HFS-Hex-Fight-Series-37-106150",
@@ -775,8 +469,8 @@
   },
   {
     "date": "2025-11-22T00:00:00+00:00",
-    "name": "UFC Fight Night 264 - Tsarukyan vs. Hooker",
-    "url": "https://www.sherdog.com/events/UFC-Fight-Night-264-Tsarukyan-vs-Hooker-108826",
+    "name": "UFC Fight Night 265 - Tsarukyan vs. Hooker",
+    "url": "https://www.sherdog.com/events/UFC-Fight-Night-265-Tsarukyan-vs-Hooker-108826",
     "location": "ABHA Arena, Doha, Qatar"
   },
   {
@@ -802,6 +496,12 @@
     "name": "AKA 51 - American Kombat Alliance",
     "url": "https://www.sherdog.com/events/AKA-51-American-Kombat-Alliance-109518",
     "location": "Lake Charles, Louisiana, United States"
+  },
+  {
+    "date": "2025-11-22T00:00:00+00:00",
+    "name": "209 - Beatdown 26",
+    "url": "https://www.sherdog.com/events/209-Beatdown-26-109578",
+    "location": "Stockton Memorial Civic Auditorium, Stockton, California, United States"
   },
   {
     "date": "2025-11-22T00:00:00+00:00",
@@ -835,9 +535,9 @@
   },
   {
     "date": "2025-11-22T00:00:00+00:00",
-    "name": "Jungle Fight 142 - MMA World League",
-    "url": "https://www.sherdog.com/events/Jungle-Fight-142-MMA-World-League-109981",
-    "location": "Mauro Pinheiro Gymnasium, Sao Paulo, Sao Paulo, Brazil"
+    "name": "Jungle Fight 142 - Bahia vs. Minas Gerais",
+    "url": "https://www.sherdog.com/events/Jungle-Fight-142-Bahia-vs-Minas-Gerais-109981",
+    "location": "Botafogo Soccer and Rowing Club Gymnasium, Rio de Janeiro, Rio de Janeiro, Brazil"
   },
   {
     "date": "2025-11-22T00:00:00+00:00",
@@ -870,10 +570,130 @@
     "location": "Suquamish Clearwater Casino Resort, Suquamish, Washington, United States"
   },
   {
+    "date": "2025-11-22T00:00:00+00:00",
+    "name": "The Clash - The Clash 3",
+    "url": "https://www.sherdog.com/events/The-Clash-The-Clash-3-110286",
+    "location": "Parnu Sports Hall, Parnu, Estonia"
+  },
+  {
+    "date": "2025-11-22T00:00:00+00:00",
+    "name": "MMA Galla - Vol. 28",
+    "url": "https://www.sherdog.com/events/MMA-Galla-Vol-28-110307",
+    "location": "Odense Idrætspark, Odense, Denmark"
+  },
+  {
+    "date": "2025-11-22T00:00:00+00:00",
+    "name": "Jue Cheng King - JCK Fight Night 111",
+    "url": "https://www.sherdog.com/events/Jue-Cheng-King-JCK-Fight-Night-111-110331",
+    "location": "JCK International Fighting Center, Luliang, Shanxi, China"
+  },
+  {
+    "date": "2025-11-22T00:00:00+00:00",
+    "name": "SFS 22 - Shuriken Fight Series 22",
+    "url": "https://www.sherdog.com/events/SFS-22-Shuriken-Fight-Series-22-110351",
+    "location": "Eventfinda Stadium, Auckland, New Zealand"
+  },
+  {
+    "date": "2025-11-22T00:00:00+00:00",
+    "name": "Absolute Combat Federation - ACF 6",
+    "url": "https://www.sherdog.com/events/Absolute-Combat-Federation-ACF-6-110352",
+    "location": "Virovitica, Virovitica, Croatia"
+  },
+  {
+    "date": "2025-11-22T00:00:00+00:00",
+    "name": "CWA - Cage Warriors Academy Lowlands 16",
+    "url": "https://www.sherdog.com/events/CWA-Cage-Warriors-Academy-Lowlands-16-110353",
+    "location": "Sportcentrum Sportvision, Eindhoven, The Netherlands"
+  },
+  {
+    "date": "2025-11-22T00:00:00+00:00",
+    "name": "GAMA FC 4 - Pirtskheliani vs. Torabi",
+    "url": "https://www.sherdog.com/events/GAMA-FC-4-Pirtskheliani-vs-Torabi-110354",
+    "location": "Gama Fight Hall, Tbilisi, Georgia"
+  },
+  {
+    "date": "2025-11-22T00:00:00+00:00",
+    "name": "WCC 3 - Wrath Combat Champions",
+    "url": "https://www.sherdog.com/events/WCC-3-Wrath-Combat-Champions-110357",
+    "location": "Shorts Sports and Recreation Club, Belfast, Northern Ireland"
+  },
+  {
+    "date": "2025-11-22T00:00:00+00:00",
+    "name": "FAME 28 - Armagedon",
+    "url": "https://www.sherdog.com/events/FAME-28-Armagedon-110358",
+    "location": "Warsaw, Poland"
+  },
+  {
+    "date": "2025-11-22T00:00:00+00:00",
+    "name": "Elite Caged Combat 3 - Fall Fury",
+    "url": "https://www.sherdog.com/events/Elite-Caged-Combat-3-Fall-Fury-110359",
+    "location": "Sahib Shrine Auditorium, Sarasota, Florida, United States"
+  },
+  {
+    "date": "2025-11-22T00:00:00+00:00",
+    "name": "Team Buck Wild - Buck Wild MMA",
+    "url": "https://www.sherdog.com/events/Team-Buck-Wild-Buck-Wild-MMA-110360",
+    "location": "Miami Nation of Indians Building, Peru, Indiana, United States"
+  },
+  {
+    "date": "2025-11-22T00:00:00+00:00",
+    "name": "2 Piece Promotions 7 - War at the Wex",
+    "url": "https://www.sherdog.com/events/2-Piece-Promotions-7-War-at-the-Wex-110361",
+    "location": "Wexford County Civic Arena, Cadillac, Michigan, United States"
+  },
+  {
+    "date": "2025-11-22T00:00:00+00:00",
+    "name": "Cage Fighting Championships - CFC 6: Rise of Champions",
+    "url": "https://www.sherdog.com/events/Cage-Fighting-Championships-CFC-6-Rise-of-Champions-110362",
+    "location": "VBC South Hall 2, Huntsville, Alabama, United States"
+  },
+  {
+    "date": "2025-11-22T00:00:00+00:00",
+    "name": "Tru Rev MMA - True Revelation MMA 62",
+    "url": "https://www.sherdog.com/events/Tru-Rev-MMA-True-Revelation-MMA-62-110363",
+    "location": "Grand River Convention Center, Dubuque, Iowa, United States"
+  },
+  {
+    "date": "2025-11-22T00:00:00+00:00",
+    "name": "YFL 7 - Yuma Fight League",
+    "url": "https://www.sherdog.com/events/YFL-7-Yuma-Fight-League-110364",
+    "location": "Yuma County Fairgrounds, Yuma, Arizona, United States"
+  },
+  {
+    "date": "2025-11-22T00:00:00+00:00",
+    "name": "FW - FightWorld 41",
+    "url": "https://www.sherdog.com/events/FW-FightWorld-41-110366",
+    "location": "Revel Entertainment Center, Albuquerque, New Mexico, United States"
+  },
+  {
     "date": "2025-11-23T00:00:00+00:00",
     "name": "Brave CF 102 - Brave Combat Federation 102 / WFC 29",
     "url": "https://www.sherdog.com/events/Brave-CF-102-Brave-Combat-Federation-102-WFC-29-109672",
     "location": "Hala Tivoli, Ljubljana, Slovenia"
+  },
+  {
+    "date": "2025-11-23T00:00:00+00:00",
+    "name": "Thunder Fight 53 - Copa Thunder 43",
+    "url": "https://www.sherdog.com/events/Thunder-Fight-53-Copa-Thunder-43-110285",
+    "location": "Thunder Fight Center, Sao Paulo, Sao Paulo, Brazil"
+  },
+  {
+    "date": "2025-11-23T00:00:00+00:00",
+    "name": "VFC - Victory Fight Championship",
+    "url": "https://www.sherdog.com/events/VFC-Victory-Fight-Championship-110302",
+    "location": "Shinka Jitsu Arena, Quilmes, Buenos Aires, Argentina"
+  },
+  {
+    "date": "2025-11-23T00:00:00+00:00",
+    "name": "Anthony Pettis FC 21 - New Mexico Fight Night 2",
+    "url": "https://www.sherdog.com/events/Anthony-Pettis-FC-21-New-Mexico-Fight-Night-2-110368",
+    "location": "Isleta Resort & Casino, Albuquerque, New Mexico, United States"
+  },
+  {
+    "date": "2025-11-23T00:00:00+00:00",
+    "name": "Proving Grounds - Total Fight League",
+    "url": "https://www.sherdog.com/events/Proving-Grounds-Total-Fight-League-110369",
+    "location": "Hub Sports Center, Liberty Lake, Washington, United States"
   },
   {
     "date": "2025-11-23T12:30:00+00:00",
@@ -888,6 +708,12 @@
     "location": "New Pier Hall, Minato, Tokyo, Japan"
   },
   {
+    "date": "2025-11-24T00:00:00+00:00",
+    "name": "Shoot Boxing - 40th Anniversary: S-Cup x GZT 2025",
+    "url": "https://www.sherdog.com/events/Shoot-Boxing-40th-Anniversary-SCup-x-GZT-2025-110299",
+    "location": "Yoyogi 2nd National Gymnasium, Shibuya, Tokyo, Japan"
+  },
+  {
     "date": "2025-11-26T00:00:00+00:00",
     "name": "Bizzarro Promotions - Bayfront Brawl 18",
     "url": "https://www.sherdog.com/events/Bizzarro-Promotions-Bayfront-Brawl-18-109625",
@@ -898,6 +724,30 @@
     "name": "FFC 99 - Argentina",
     "url": "https://www.sherdog.com/events/FFC-99-Argentina-110159",
     "location": "Art Media Complex, Buenos Aires, Buenos Aires, Argentina"
+  },
+  {
+    "date": "2025-11-26T00:00:00+00:00",
+    "name": "XFO - Night of Champions",
+    "url": "https://www.sherdog.com/events/XFO-Night-of-Champions-110370",
+    "location": "Energy Sports Complex, Bensenville, Illinois, United States"
+  },
+  {
+    "date": "2025-11-26T00:00:00+00:00",
+    "name": "BCM Promotions - Fight Night 23: Brawl at the Mall 2",
+    "url": "https://www.sherdog.com/events/BCM-Promotions-Fight-Night-23-Brawl-at-the-Mall-2-110372",
+    "location": "Ontario Center (Richland Mall), Ontario, Ohio, United States"
+  },
+  {
+    "date": "2025-11-26T00:00:00+00:00",
+    "name": "MCC 74 - Thanksgiving Throwdown 2025",
+    "url": "https://www.sherdog.com/events/MCC-74-Thanksgiving-Throwdown-2025-110374",
+    "location": "The Horizon Center, Clive, Iowa, United States"
+  },
+  {
+    "date": "2025-11-27T00:00:00+00:00",
+    "name": "GOAT MMA 4 - Sainz vs. Gonzalez",
+    "url": "https://www.sherdog.com/events/GOAT-MMA-4-Sainz-vs-Gonzalez-110376",
+    "location": "Fauna Club, Tuxtla Gutiérrez, Chiapas, Mexico"
   },
   {
     "date": "2025-11-28T00:00:00+00:00",
@@ -921,13 +771,19 @@
     "date": "2025-11-28T00:00:00+00:00",
     "name": "BSC 32 - Budo Sento Championship 32",
     "url": "https://www.sherdog.com/events/BSC-32-Budo-Sento-Championship-32-109822",
-    "location": "Monterrey, Nuevo Leon, Mexico"
+    "location": "Arena Mobil, Monterrey, Nuevo Leon, Mexico"
   },
   {
     "date": "2025-11-28T00:00:00+00:00",
     "name": "Champion 24 - Batte vs. Carvalho",
     "url": "https://www.sherdog.com/events/Champion-24-Batte-vs-Carvalho-109875",
     "location": "Knock Out Arena, Santa Cruz de la Sierra, Santa Cruz, Bolivia"
+  },
+  {
+    "date": "2025-11-28T00:00:00+00:00",
+    "name": "UTMA 15 - Unique & Talented Martial Artists",
+    "url": "https://www.sherdog.com/events/UTMA-15-Unique-Talented-Martial-Artists-110297",
+    "location": "Zalgirio Arena, Kaunas, Lithuania"
   },
   {
     "date": "2025-11-29T00:00:00+00:00",
@@ -1002,12 +858,6 @@
     "location": "Guararapes Auto Shopping, Fortaleza, Ceara, Brazil"
   },
   {
-    "date": "2025-11-29T00:00:00+00:00",
-    "name": "MAC 17 - TBA vs. TBA",
-    "url": "https://www.sherdog.com/events/MAC-17-TBA-vs-TBA-110224",
-    "location": "Brazil"
-  },
-  {
     "date": "2025-11-30T00:00:00+00:00",
     "name": "Gladiator - Gladiator 033 in Osaka",
     "url": "https://www.sherdog.com/events/Gladiator-Gladiator-033-in-Osaka-104636",
@@ -1038,292 +888,628 @@
     "location": "Goshogawara City Hometown Exchange Area Citizens Center (Ortensia), Goshogawara, Aomori, Japan"
   },
   {
-    "date": "2025-11-02T00:00:00+00:00",
-    "name": "Geneva Academy of Mixed Martial Arts - GAMMA Open Cage 10",
-    "url": "https://www.sherdog.com/events/Geneva-Academy-of-Mixed-Martial-Arts-GAMMA-Open-Cage-10-110190",
-    "location": "Gamma Gym, Geneva, Switzerland"
+    "date": "2025-12-04T00:00:00+00:00",
+    "name": "EFC 130 - EFC Worldwide 130",
+    "url": "https://www.sherdog.com/events/EFC-130-EFC-Worldwide-130-106245",
+    "location": "World Sports Betting Arena - EFC Performance Institute, Sandton, South Africa"
   },
   {
-    "date": "2025-11-02T00:00:00+00:00",
-    "name": "Bloom FC 5 - Bloom Fighting Championship 5",
-    "url": "https://www.sherdog.com/events/Bloom-FC-5-Bloom-Fighting-Championship-5-110001",
-    "location": "Acros Fukuoka, Fukuoka, Fukuoka, Japan"
+    "date": "2025-12-05T00:00:00+00:00",
+    "name": "Professional Fighters League - PFL MENA 4: 2025 Finals",
+    "url": "https://www.sherdog.com/events/Professional-Fighters-League-PFL-MENA-4-2025-Finals-107650",
+    "location": "Dhahran Expo, Khobar, Saudi Arabia"
   },
   {
-    "date": "2025-11-02T00:00:00+00:00",
-    "name": "LFL - New Talent 16",
-    "url": "https://www.sherdog.com/events/LFL-New-Talent-16-109936",
-    "location": "Mediahaven, Amsterdam, Netherlands"
-  },
-  {
-    "date": "2025-11-02T00:00:00+00:00",
-    "name": "Deep - 128 Impact",
-    "url": "https://www.sherdog.com/events/Deep-128-Impact-109631",
-    "location": "Korakuen Hall, Bunkyo, Tokyo, Japan"
-  },
-  {
-    "date": "2025-11-02T00:00:00+00:00",
-    "name": "LFL 20 - Levels Fight League 20",
-    "url": "https://www.sherdog.com/events/LFL-20-Levels-Fight-League-20-109548",
-    "location": "Mediahaven, Amsterdam, Netherlands"
-  },
-  {
-    "date": "2025-11-02T00:00:00+00:00",
-    "name": "Anthony Pettis FC 20 - Milwaukee Fight Night 9",
-    "url": "https://www.sherdog.com/events/Anthony-Pettis-FC-20-Milwaukee-Fight-Night-9-109512",
-    "location": "Potawotami Casino Event Center, Milwaukee, Wisconsin, United States"
-  },
-  {
-    "date": "2025-11-02T00:00:00+00:00",
-    "name": "One Pride MMA Fight Night 88 - Battle For Glory",
-    "url": "https://www.sherdog.com/events/One-Pride-MMA-Fight-Night-88-Battle-For-Glory-109041",
-    "location": "HW Superhouse Satrio, South Jakarta, Jakarta, Indonesia"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "FERSA Promotions - Box Rap Feat. Kumite",
-    "url": "https://www.sherdog.com/events/FERSA-Promotions-Box-Rap-Feat-Kumite-110227",
-    "location": "Belen Yard, Santa Cruz de la Sierra, Santa Cruz, Bolivia"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "Xtreme Fighting Championships - XFC Young Guns 11-12",
-    "url": "https://www.sherdog.com/events/Xtreme-Fighting-Championships-XFC-Young-Guns-1112-110184",
-    "location": "United Fighting Center, Buenos Aires, Buenos Aires, Argentina"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "LFC 30 - Lion Fighting Championships 30",
-    "url": "https://www.sherdog.com/events/LFC-30-Lion-Fighting-Championships-30-110183",
-    "location": "Lordswood Leisure Centre, Kent, England"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "305 Fights - Where Champions Rise 25",
-    "url": "https://www.sherdog.com/events/305-Fights-Where-Champions-Rise-25-110170",
-    "location": "Manuel Artime Theater, Miami, Florida, United States"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "RUF MMA 65 - Dia Delos Muertos",
-    "url": "https://www.sherdog.com/events/RUF-MMA-65-Dia-Delos-Muertos-110027",
-    "location": "Celebrity Theatre, Phoenix, Arizona, United States"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "Black Combat - Champions League 24-25 Season: 15th Week",
-    "url": "https://www.sherdog.com/events/Black-Combat-Champions-League-2425-Season-15th-Week-109982",
-    "location": "Black Agora, Osan, Gyeonggi, South Korea"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "ExciteFight - Conquest of the Cage",
-    "url": "https://www.sherdog.com/events/ExciteFight-Conquest-of-the-Cage-109935",
-    "location": "Northern Quest Resort and Casino, Washington, United States"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "PXF 48 - Martinez vs. Murdock",
-    "url": "https://www.sherdog.com/events/PXF-48-Martinez-vs-Murdock-109934",
-    "location": "Gimnasio Municipal \"Carlos Hernandez Carrera\", Heroica Nogales, Sonora, Mexico"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "Gladiator Challenge - Season's Beatings",
-    "url": "https://www.sherdog.com/events/Gladiator-Challenge-Seasons-Beatings-109933",
-    "location": "San Bernardino County Fairgrounds, Victorville, California, United States"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "Lights Out Xtreme Fighting - LXF 28",
-    "url": "https://www.sherdog.com/events/Lights-Out-Xtreme-Fighting-LXF-28-109932",
-    "location": "Thunder Studios, Long Beach, California, United States"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "Power Fight - La Batalla del Puente 16",
-    "url": "https://www.sherdog.com/events/Power-Fight-La-Batalla-del-Puente-16-109931",
-    "location": "Club Córdoba, Corrientes, Corrientes, Argentina"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "Combat Zone 90 - Combat Zone MMA",
-    "url": "https://www.sherdog.com/events/Combat-Zone-90-Combat-Zone-MMA-109930",
-    "location": "SNHU Arena, Manchester, New Hampshire, United States"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "Dominance FC - 2nd AD Academy",
-    "url": "https://www.sherdog.com/events/Dominance-FC-2nd-AD-Academy-109804",
-    "location": "Guldboxen, Nykoebing Falster, Denmark"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "VK04 - Vital Kombat",
-    "url": "https://www.sherdog.com/events/VK04-Vital-Kombat-109795",
-    "location": "Gosford RSL Club, Gosford, New South Wales, Australia"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "Honor Fight League 6 - Thai Boxing, MMA, Grappling",
-    "url": "https://www.sherdog.com/events/Honor-Fight-League-6-Thai-Boxing-MMA-Grappling-109692",
-    "location": "IMMARTIAL Fighting Dome, Willemstad, Curacao"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "SFC - Summit Fighting Championships 51",
-    "url": "https://www.sherdog.com/events/SFC-Summit-Fighting-Championships-51-109543",
-    "location": "Tupelo, Mississippi, United States"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "Versus Promotions - Versus Fight Night 16",
-    "url": "https://www.sherdog.com/events/Versus-Promotions-Versus-Fight-Night-16-109542",
-    "location": "Heartfelt Arena, Pretoria, South Africa"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "Sparta Sports and Entertainment - Sparta 107: Sojo vs. Allport",
-    "url": "https://www.sherdog.com/events/Sparta-Sports-and-Entertainment-Sparta-107-Sojo-vs-Allport-109528",
-    "location": "The Blue Arena, Loveland, Colorado, United States"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "AKA 50 - American Kombat Alliance",
-    "url": "https://www.sherdog.com/events/AKA-50-American-Kombat-Alliance-109517",
-    "location": "Ruston, Louisiana, United States"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "NLC 40 - New Line Cagefighting 40: Brawl at the Bridge 4",
-    "url": "https://www.sherdog.com/events/NLC-40-New-Line-Cagefighting-40-Brawl-at-the-Bridge-4-109430",
-    "location": "The Bridge Sports Complex, Bridgeport, West Virginia, United States"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "RCF 14 - River City Fights",
-    "url": "https://www.sherdog.com/events/RCF-14-River-City-Fights-109357",
-    "location": "Southeast Expo Center, McAlester, Oklahoma, United States"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "Ignite Fights 110 - Mixed Martial Arts and Muay Thai Action",
-    "url": "https://www.sherdog.com/events/Ignite-Fights-110-Mixed-Martial-Arts-and-Muay-Thai-Action-109345",
-    "location": "Canterbury Park Expo Center, Shakopee, Minnesota, United States"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "UFC Fight Night 263 - Garcia vs. Onama",
-    "url": "https://www.sherdog.com/events/UFC-Fight-Night-263-Garcia-vs-Onama-109254",
-    "location": "UFC Apex, Las Vegas, Nevada, United States"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "Oktagon MMA - Oktagon 79: Surdu vs. Kalasnik",
-    "url": "https://www.sherdog.com/events/Oktagon-MMA-Oktagon-79-Surdu-vs-Kalasnik-108544",
-    "location": "Winning Group Arena, Brno, Czech Republic"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "MFL 58 - Michiana Fight League 58",
-    "url": "https://www.sherdog.com/events/MFL-58-Michiana-Fight-League-58-106228",
-    "location": "South Bend, Indiana, United States"
-  },
-  {
-    "date": "2025-11-01T00:00:00+00:00",
-    "name": "RAC 18 - Rise and Conquer 18",
-    "url": "https://www.sherdog.com/events/RAC-18-Rise-and-Conquer-18-102873",
-    "location": "Sunderland Live Arena, Sunderland, England"
-  },
-  {
-    "date": "2025-10-31T00:00:00+00:00",
-    "name": "FederKombat - Halloween Fight Night",
-    "url": "https://www.sherdog.com/events/FederKombat-Halloween-Fight-Night-110180",
-    "location": "Piccolo Teatro, Padova, Italy"
-  },
-  {
-    "date": "2025-10-31T00:00:00+00:00",
-    "name": "One Championship - One Friday Fights 131",
-    "url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-131-109988",
+    "date": "2025-12-05T00:00:00+00:00",
+    "name": "One Championship - One on Prime Video 38",
+    "url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-38-108249",
     "location": "Lumpinee Boxing Stadium, Bangkok, Thailand"
   },
   {
-    "date": "2025-10-30T00:00:00+00:00",
-    "name": "WXF - APEC 2025 Korea Summit Commemorative World MMA Competition",
-    "url": "https://www.sherdog.com/events/WXF-APEC-2025-Korea-Summit-Commemorative-World-MMA-Competition-110140",
-    "location": "Hanyang University Olympic Gymnasium, Seoul, South Korea"
+    "date": "2025-12-05T00:00:00+00:00",
+    "name": "Shooto Brazil 134 - TBA vs. TBA",
+    "url": "https://www.sherdog.com/events/Shooto-Brazil-134-TBA-vs-TBA-109289",
+    "location": "Marica, Rio de Janeiro, Rio de Janeiro, Brazil"
   },
   {
-    "date": "2025-10-29T00:00:00+00:00",
-    "name": "Octagon Promotion - Octagon 80: Kuanyshbaev vs. Chapanov",
-    "url": "https://www.sherdog.com/events/Octagon-Promotion-Octagon-80-Kuanyshbaev-vs-Chapanov-109800",
-    "location": "Zhaksylyk Ushkempirov Martial Arts Palace, Astana, Kazakhstan"
+    "date": "2025-12-05T00:00:00+00:00",
+    "name": "LUX 057 - LUX Fight League 057",
+    "url": "https://www.sherdog.com/events/LUX-057-LUX-Fight-League-057-109951",
+    "location": "Marcelino Gonzalez Gymnasium, Zacatecas, Zacatecas, Mexico"
   },
   {
-    "date": "2025-10-26T16:40:00+00:00",
-    "name": "WCF - Wardog Cage Fight 54: 2nd Round",
-    "url": "https://www.sherdog.com/events/WCF-Wardog-Cage-Fight-54-2nd-Round-109861",
-    "location": "Sekaikan, Osaka, Osaka, Japan"
+    "date": "2025-12-05T00:00:00+00:00",
+    "name": "ACA 197 - Ibragimov vs. Magomedov",
+    "url": "https://www.sherdog.com/events/ACA-197-Ibragimov-vs-Magomedov-110205",
+    "location": "Irina Viner Usmanova Gymnastics Palace, Moscow, Russia"
   },
   {
-    "date": "2025-10-26T12:10:00+00:00",
-    "name": "WCF - Wardog Cage Fight 54: 1st Round",
-    "url": "https://www.sherdog.com/events/WCF-Wardog-Cage-Fight-54-1st-Round-105211",
-    "location": "Sekaikan, Osaka, Osaka, Japan"
+    "date": "2025-12-06T00:00:00+00:00",
+    "name": "Caged Steel 42 - Caged Steel MMA",
+    "url": "https://www.sherdog.com/events/Caged-Steel-42-Caged-Steel-MMA-106831",
+    "location": "The Dome, Doncaster, England"
   },
   {
-    "date": "2025-10-26T00:00:00+00:00",
-    "name": "Peruvian Kombat Championship - PKC 14",
-    "url": "https://www.sherdog.com/events/Peruvian-Kombat-Championship-PKC-14-110179",
-    "location": "Mkombat, San Juan de Lurigancho, Lima, Peru"
+    "date": "2025-12-06T00:00:00+00:00",
+    "name": "UFC 323 - Dvalishvili vs. Yan 2",
+    "url": "https://www.sherdog.com/events/UFC-323-Dvalishvili-vs-Yan-2-109392",
+    "location": "T-Mobile Arena, Las Vegas, Nevada, United States"
   },
   {
-    "date": "2025-10-26T00:00:00+00:00",
-    "name": "GAMMA - Moldova MMA Championship: Day 2",
-    "url": "https://www.sherdog.com/events/GAMMA-Moldova-MMA-Championship-Day-2-110007",
-    "location": "Chisinau, Moldova"
+    "date": "2025-12-06T00:00:00+00:00",
+    "name": "Nemesis Fighting Alliance - Nemesis 22",
+    "url": "https://www.sherdog.com/events/Nemesis-Fighting-Alliance-Nemesis-22-109581",
+    "location": "Arnold Eagles, Arnold, Missouri, United States"
   },
   {
-    "date": "2025-10-26T00:00:00+00:00",
-    "name": "BC - Beast Championship 18",
-    "url": "https://www.sherdog.com/events/BC-Beast-Championship-18-109943",
-    "location": "Monster Sports Club, Goyang, Gyeonggi, South Korea"
+    "date": "2025-12-06T00:00:00+00:00",
+    "name": "IFC MMA - Integra FC 22",
+    "url": "https://www.sherdog.com/events/IFC-MMA-Integra-FC-22-109623",
+    "location": "Wittlich, Rhineland-Palatinate, Germany"
   },
   {
-    "date": "2025-10-26T00:00:00+00:00",
-    "name": "CW 53 - Clan Wars 53: Gladiator 5",
-    "url": "https://www.sherdog.com/events/CW-53-Clan-Wars-53-Gladiator-5-109929",
-    "location": "Crowne Plaza, Belfast, Northern Ireland"
+    "date": "2025-12-06T00:00:00+00:00",
+    "name": "NLC 41 - New Line Cagefighting 41",
+    "url": "https://www.sherdog.com/events/NLC-41-New-Line-Cagefighting-41-109792",
+    "location": "Central Bank Center, Lexington, Kentucky, United States"
   },
   {
-    "date": "2025-10-26T00:00:00+00:00",
-    "name": "BFS 8 - Bloodline Fight Series 8",
-    "url": "https://www.sherdog.com/events/BFS-8-Bloodline-Fight-Series-8-109928",
-    "location": "Casino Rooms, Kent, England"
+    "date": "2025-12-06T00:00:00+00:00",
+    "name": "CW 199 - Cage Warriors 199: Newcastle",
+    "url": "https://www.sherdog.com/events/CW-199-Cage-Warriors-199-Newcastle-110045",
+    "location": "Vertu Arena, Newcastle, England"
   },
   {
-    "date": "2025-10-26T00:00:00+00:00",
-    "name": "Thunder Fight 52 - Spadaccini vs. Esfirrao",
-    "url": "https://www.sherdog.com/events/Thunder-Fight-52-Spadaccini-vs-Esfirrao-109927",
-    "location": "Thunder Fight Center, Sao Paulo, Sao Paulo, Brazil"
+    "date": "2025-12-06T00:00:00+00:00",
+    "name": "Flex Fight Series Vol. 52 - The Underground",
+    "url": "https://www.sherdog.com/events/Flex-Fight-Series-Vol-52-The-Underground-110136",
+    "location": "The Fight Club, Bay Shore, New York, United States"
   },
   {
-    "date": "2025-10-26T00:00:00+00:00",
-    "name": "Fury FC - Amateur Series 59",
-    "url": "https://www.sherdog.com/events/Fury-FC-Amateur-Series-59-109750",
+    "date": "2025-12-06T00:00:00+00:00",
+    "name": "Future of Fighting 9 - 4th Street Live!",
+    "url": "https://www.sherdog.com/events/Future-of-Fighting-9-4th-Street-Live-110174",
+    "location": "4th Street Live!, Louisville, Kentucky, United States"
+  },
+  {
+    "date": "2025-12-06T00:00:00+00:00",
+    "name": "Spar Star Promotions - SSP Fight Night 68",
+    "url": "https://www.sherdog.com/events/Spar-Star-Promotions-SSP-Fight-Night-68-110262",
+    "location": "The Gardens Casino, Hawaiian Gardens, California, United States"
+  },
+  {
+    "date": "2025-12-06T00:00:00+00:00",
+    "name": "SnA - Shock n Awe Contenders 8",
+    "url": "https://www.sherdog.com/events/SnA-Shock-n-Awe-Contenders-8-110270",
+    "location": "Pitt St. Skatepark, Portsmouth, United Kingdom"
+  },
+  {
+    "date": "2025-12-06T00:00:00+00:00",
+    "name": "Black Combat - Rise 8",
+    "url": "https://www.sherdog.com/events/Black-Combat-Rise-8-110382",
+    "location": "Black Agora, Osan, Gyeonggi, South Korea"
+  },
+  {
+    "date": "2025-12-06T00:00:00+00:00",
+    "name": "MFC 53 - Mix Fight Championship",
+    "url": "https://www.sherdog.com/events/MFC-53-Mix-Fight-Championship-110383",
+    "location": "Suwag Energie Arena, Frankfurt, Germany"
+  },
+  {
+    "date": "2025-12-06T00:00:00+00:00",
+    "name": "Thicc Boy Fight Club - Fight Night 8",
+    "url": "https://www.sherdog.com/events/Thicc-Boy-Fight-Club-Fight-Night-8-110387",
+    "location": "Don Kolov Arena, Mississauga, Ontario, Canada"
+  },
+  {
+    "date": "2025-12-07T00:00:00+00:00",
+    "name": "P4P FC 39 - Pound For Pound FC 39",
+    "url": "https://www.sherdog.com/events/P4P-FC-39-Pound-For-Pound-FC-39-109006",
+    "location": "Power of Dream Arena, Sapporo, Hokkaido, Japan"
+  },
+  {
+    "date": "2025-12-07T00:00:00+00:00",
+    "name": "Road FC 75 - Road Fighting Championship 75",
+    "url": "https://www.sherdog.com/events/Road-FC-75-Road-Fighting-Championship-75-109508",
+    "location": "Jangchung Arena, Jung District, Seoul, South Korea"
+  },
+  {
+    "date": "2025-12-07T00:00:00+00:00",
+    "name": "Shooto - Torao 37",
+    "url": "https://www.sherdog.com/events/Shooto-Torao-37-109681",
+    "location": "KDDI Ishin Hall, Yamaguchi, Yamaguchi, Japan"
+  },
+  {
+    "date": "2025-12-07T00:00:00+00:00",
+    "name": "Deep - Osaka Impact 2025 5th Round",
+    "url": "https://www.sherdog.com/events/Deep-Osaka-Impact-2025-5th-Round-110207",
+    "location": "Sumiyoshi Kumin Center, Osaka, Osaka, Japan"
+  },
+  {
+    "date": "2025-12-11T00:00:00+00:00",
+    "name": "FCOC - Fight Club OC",
+    "url": "https://www.sherdog.com/events/FCOC-Fight-Club-OC-103809",
+    "location": "The Hangar OC Fair & Event Center, Costa Mesa, California, United States"
+  },
+  {
+    "date": "2025-12-11T00:00:00+00:00",
+    "name": "Core FC 2 - Dincer vs. Tifiev",
+    "url": "https://www.sherdog.com/events/Core-FC-2-Dincer-vs-Tifiev-109964",
+    "location": "Volkswagen Arena, Istanbul, Turkey"
+  },
+  {
+    "date": "2025-12-12T00:00:00+00:00",
+    "name": "Fierce FC - Fierce Fighting Championship",
+    "url": "https://www.sherdog.com/events/Fierce-FC-Fierce-Fighting-Championship-109316",
+    "location": "Salt Lake Masonic Temple, Salt Lake City, Utah, United States"
+  },
+  {
+    "date": "2025-12-12T00:00:00+00:00",
+    "name": "Unified MMA 65 - Unified MMA",
+    "url": "https://www.sherdog.com/events/Unified-MMA-65-Unified-MMA-110157",
+    "location": "River Cree Resort and Casino, Enoch, Alberta, Canada"
+  },
+  {
+    "date": "2025-12-12T00:00:00+00:00",
+    "name": "Victory Fighting League - The Road to Redemption",
+    "url": "https://www.sherdog.com/events/Victory-Fighting-League-The-Road-to-Redemption-110214",
+    "location": "Terminal 5, New York, New York, United States"
+  },
+  {
+    "date": "2025-12-12T00:00:00+00:00",
+    "name": "Tuff-N-Uff - Tuff-N-Uff 150",
+    "url": "https://www.sherdog.com/events/TuffNUff-TuffNUff-150-110312",
+    "location": "The Pearl at the Palms Casino Resort, Las Vegas, Nevada, United States"
+  },
+  {
+    "date": "2025-11-11T00:00:00+00:00",
+    "name": "NFC 182 - National Fighting Championship 182",
+    "url": "https://www.sherdog.com/events/NFC-182-National-Fighting-Championship-182-110295",
+    "location": "Live! at the Battery, Atlanta, Georgia, United States"
+  },
+  {
+    "date": "2025-11-09T17:10:00+00:00",
+    "name": "Pancrase - 359",
+    "url": "https://www.sherdog.com/events/Pancrase-359-109454",
+    "location": "New Pier Hall, Minato, Tokyo, Japan"
+  },
+  {
+    "date": "2025-11-09T12:30:00+00:00",
+    "name": "Pancrase - 358",
+    "url": "https://www.sherdog.com/events/Pancrase-358-109453",
+    "location": "New Pier Hall, Minato, Tokyo, Japan"
+  },
+  {
+    "date": "2025-11-09T00:00:00+00:00",
+    "name": "GA - Gladiator Arena 20",
+    "url": "https://www.sherdog.com/events/GA-Gladiator-Arena-20-110336",
+    "location": "OSiR Pyrzyce, Pyrzyce, Poland"
+  },
+  {
+    "date": "2025-11-09T00:00:00+00:00",
+    "name": "Alash Pride 114 - Khatayev vs. Guimaraes",
+    "url": "https://www.sherdog.com/events/Alash-Pride-114-Khatayev-vs-Guimaraes-110335",
+    "location": "Taraz, Kazakhstan"
+  },
+  {
+    "date": "2025-11-09T00:00:00+00:00",
+    "name": "AFC - Ased Fighting Championship 17",
+    "url": "https://www.sherdog.com/events/AFC-Ased-Fighting-Championship-17-110333",
+    "location": "Sumgait Olympic Complex, Baku, Azerbaijan"
+  },
+  {
+    "date": "2025-11-09T00:00:00+00:00",
+    "name": "Brave - Brave Fight 38",
+    "url": "https://www.sherdog.com/events/Brave-Brave-Fight-38-110304",
+    "location": "Miyagi Exhibition Center (Yume Messe Miyagi) West Annex Event Hall, Sendai, Miyagi, Japan"
+  },
+  {
+    "date": "2025-11-09T00:00:00+00:00",
+    "name": "Grachan - Grachan 78",
+    "url": "https://www.sherdog.com/events/Grachan-Grachan-78-110202",
+    "location": "Chateraise Gateau Kingdom Sapporo, Sapporo, Hokkaido, Japan"
+  },
+  {
+    "date": "2025-11-09T00:00:00+00:00",
+    "name": "Brave CF 101 - Brave Combat Federation 101",
+    "url": "https://www.sherdog.com/events/Brave-CF-101-Brave-Combat-Federation-101-110054",
+    "location": "Khalifa Sports City Arena, Isa Town, Bahrain"
+  },
+  {
+    "date": "2025-11-09T00:00:00+00:00",
+    "name": "Arena Global - Arena Global 36",
+    "url": "https://www.sherdog.com/events/Arena-Global-Arena-Global-36-109969",
+    "location": "Rio de Janeiro, Rio de Janeiro, Brazil"
+  },
+  {
+    "date": "2025-11-09T00:00:00+00:00",
+    "name": "Warrior's Dream Series - WDS 14",
+    "url": "https://www.sherdog.com/events/Warriors-Dream-Series-WDS-14-109941",
+    "location": "Nerul, Navi Mumbai, Maharashtra, India"
+  },
+  {
+    "date": "2025-11-09T00:00:00+00:00",
+    "name": "Fury FC 111 - Fury Fighting Championship 111: Taylor vs. Israilov",
+    "url": "https://www.sherdog.com/events/Fury-FC-111-Fury-Fighting-Championship-111-Taylor-vs-Israilov-109677",
     "location": "Imagen Venues Escapade 2001, Houston, Texas, United States"
   },
   {
-    "date": "2025-10-26T00:00:00+00:00",
-    "name": "Shooto / Torao Nation State - Force 22",
-    "url": "https://www.sherdog.com/events/Shooto-Torao-Nation-State-Force-22-109607",
-    "location": "Takamatsu Symbol Tower Exhibition Hall, Takamatsu, Kagawa, Japan"
+    "date": "2025-11-08T19:00:00+00:00",
+    "name": "EF  - Extreme Fight 5",
+    "url": "https://www.sherdog.com/events/EF-Extreme-Fight-5-109948",
+    "location": "Novo Repartimento, Belem, Para, Brazil"
   },
   {
-    "date": "2025-10-26T00:00:00+00:00",
-    "name": "Burst - Origin",
-    "url": "https://www.sherdog.com/events/Burst-Origin-109490",
-    "location": "Sakura Medical Welfare College Gymnasium, Sakura, Tochigi, Japan"
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "100% Fight 62 - Rodrigues vs. Kemezeu",
+    "url": "https://www.sherdog.com/events/10037-Fight-62-Rodrigues-vs-Kemezeu-110396",
+    "location": "L'Embarcadère, Aubervilliers, France"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "OC - Orixi Combat 8",
+    "url": "https://www.sherdog.com/events/OC-Orixi-Combat-8-110394",
+    "location": "Espaço Junior Ferrari, Oriximina, Para, Brazil"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "RDR MMA - Rei do Ringue 13",
+    "url": "https://www.sherdog.com/events/RDR-MMA-Rei-do-Ringue-13-110393",
+    "location": "Monte Alegre, Para, Brazil"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "MCF 12 - Mirmidoes Champions Fight",
+    "url": "https://www.sherdog.com/events/MCF-12-Mirmidoes-Champions-Fight-110392",
+    "location": "Sao Paulo, Sao Paulo, Brazil"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "GFTC 004 - International",
+    "url": "https://www.sherdog.com/events/GFTC-004-International-110329",
+    "location": "Gymnase Cotur, Le Port, Reunion"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "Arene des Sacres 9 - ADS 9",
+    "url": "https://www.sherdog.com/events/Arene-des-Sacres-9-ADS-9-110328",
+    "location": "Centre de Congrès des Vieilles-Forges, Les Mazures, France"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "FFH 2 - Fight For Hope",
+    "url": "https://www.sherdog.com/events/FFH-2-Fight-For-Hope-110327",
+    "location": "Stadionmässan Malmo, Malmo, Sweden"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "PML 17 - Professional Muaythai League 17",
+    "url": "https://www.sherdog.com/events/PML-17-Professional-Muaythai-League-17-110326",
+    "location": "Hala Kralovka, Prague, Czech Republic"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "KFN 5 - Klincz Fight Night 5",
+    "url": "https://www.sherdog.com/events/KFN-5-Klincz-Fight-Night-5-110325",
+    "location": "Targi Kielce, Kielce, Poland"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "Gala Sportow Walki - Sport Lab Fight",
+    "url": "https://www.sherdog.com/events/Gala-Sportow-Walki-Sport-Lab-Fight-110324",
+    "location": "SiSu Arena, Bydgoszcz, Poland"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "XCC 3 - Xtreme Combat Championship",
+    "url": "https://www.sherdog.com/events/XCC-3-Xtreme-Combat-Championship-110322",
+    "location": "Steffl Arena, Vienna, Austria"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "Octagon Promotion - Octagon 81: Abdueva vs. Monteiro",
+    "url": "https://www.sherdog.com/events/Octagon-Promotion-Octagon-81-Abdueva-vs-Monteiro-110321",
+    "location": "Baluan Sholaq Arena, Almaty, Kazakhstan"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "Jue Cheng King - JCK Fight Night 110",
+    "url": "https://www.sherdog.com/events/Jue-Cheng-King-JCK-Fight-Night-110-110189",
+    "location": "JCK International Fighting Center, Luliang, Shanxi, China"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "Future MMA 16 - Imperador vs. Albuquerque",
+    "url": "https://www.sherdog.com/events/Future-MMA-16-Imperador-vs-Albuquerque-110188",
+    "location": "Arena Hall, Brasilia, Federal District, Brazil"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "Born To Fight - Purple In The Cage",
+    "url": "https://www.sherdog.com/events/Born-To-Fight-Purple-In-The-Cage-110187",
+    "location": "Palataurus, Lecco, Italy"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "Tuff-N-Uff - Round 14: Operation Knockout",
+    "url": "https://www.sherdog.com/events/TuffNUff-Round-14-Operation-Knockout-110178",
+    "location": "Downtown Las Vegas Events Center, Las Vegas, Nevada, United States"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "Xtreme Fighting Alliance - XFA Fight Night 7",
+    "url": "https://www.sherdog.com/events/Xtreme-Fighting-Alliance-XFA-Fight-Night-7-110166",
+    "location": "National Guard Armory, Knoxville City, Tennessee, United States"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "Square Ring Promotions - Island Fights 92",
+    "url": "https://www.sherdog.com/events/Square-Ring-Promotions-Island-Fights-92-110105",
+    "location": "Pensacola Bay Center, Pensacola, Florida, United States"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "PF 3 - Prime Fighting",
+    "url": "https://www.sherdog.com/events/PF-3-Prime-Fighting-110104",
+    "location": "Seige MMA & Performance, Hattiesburg, Mississippi, United States"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "K4 Fighting and Art of Combat SC - Battlefield",
+    "url": "https://www.sherdog.com/events/K4-Fighting-and-Art-of-Combat-SC-Battlefield-110103",
+    "location": "Buffalo Riverworks, Buffalo, New York, United States"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "IMMA 10 - Imperium MMA 10",
+    "url": "https://www.sherdog.com/events/IMMA-10-Imperium-MMA-10-110102",
+    "location": "Club Olimpico, Villa Gobernador Galvez, Santa Fe, Argentina"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "Hamara MMA - Vol. 8",
+    "url": "https://www.sherdog.com/events/Hamara-MMA-Vol-8-110101",
+    "location": "Kupittaan Palloiluhalli, Turku, Finland"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "CES MMA 82 - Fight for a Cause 3",
+    "url": "https://www.sherdog.com/events/CES-MMA-82-Fight-for-a-Cause-3-110034",
+    "location": "Park Theater, Cranston, Rhode Island, United States"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "Horsepower Promotions - Super Fight Night",
+    "url": "https://www.sherdog.com/events/Horsepower-Promotions-Super-Fight-Night-110033",
+    "location": "Grady City Fairgrounds, Chickasha, Oklahoma, United States"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "MCF 29 - Salute to Veterans 5",
+    "url": "https://www.sherdog.com/events/MCF-29-Salute-to-Veterans-5-110032",
+    "location": "D&N Event Center, North Platte, Nebraska, United States"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "BFC 3 - Bosnian Fighting Championship 3",
+    "url": "https://www.sherdog.com/events/BFC-3-Bosnian-Fighting-Championship-3-110031",
+    "location": "Sportska Dvorana Srebrenik, Srebrenik, Bosnia and Herzegovina"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "CAM 34 - Circuito Argentino de MMA 34",
+    "url": "https://www.sherdog.com/events/CAM-34-Circuito-Argentino-de-MMA-34-110030",
+    "location": "CeNARD Sports Stadium, Buenos Aires, Buenos Aires, Argentina"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "FRL 44 - Real Fight League 44",
+    "url": "https://www.sherdog.com/events/FRL-44-Real-Fight-League-44-109958",
+    "location": "Cortijo Miguel Ortas, Atizapan de Zaragoza, Estado de Mexico, Mexico"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "Synergy FC 24 - Synergy Fighting Championship",
+    "url": "https://www.sherdog.com/events/Synergy-FC-24-Synergy-Fighting-Championship-109939",
+    "location": "Shrine Mosque, Springfield, Missouri, United States"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "FEN 60 - Ostrowski vs. Janur",
+    "url": "https://www.sherdog.com/events/FEN-60-Ostrowski-vs-Janur-109857",
+    "location": "Hali Relax, Piotrkow Trybunalski, Poland"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "Troncal Fight League 12 - Mi Raza",
+    "url": "https://www.sherdog.com/events/Troncal-Fight-League-12-Mi-Raza-109756",
+    "location": "TFL Gym Arena, La Troncal, Canar, Ecuador"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "Dynamite MMA 4 - Margarian vs. Loureiro",
+    "url": "https://www.sherdog.com/events/Dynamite-MMA-4-Margarian-vs-Loureiro-109629",
+    "location": "Sud de France Arena, Montpellier, France"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "Real Cage Fighting - Space Coast Fight Night",
+    "url": "https://www.sherdog.com/events/Real-Cage-Fighting-Space-Coast-Fight-Night-109620",
+    "location": "Wickham Park Community Center, Melbourne, Florida, United States"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "247 FC - MMA at the Venue 3",
+    "url": "https://www.sherdog.com/events/247-FC-MMA-at-the-Venue-3-109602",
+    "location": "Sunny Days Arena at The Venue, North Versailles, Pennsylvania, United States"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "CDN 2 - Combates del Norte 2",
+    "url": "https://www.sherdog.com/events/CDN-2-Combates-del-Norte-2-109597",
+    "location": "Uncaus Arena Stadium, Presidencia Roque Saenz Pena, Chaco, Argentina"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "NEF 64 - Call To Arms",
+    "url": "https://www.sherdog.com/events/NEF-64-Call-To-Arms-109521",
+    "location": "Cross Center, Bangor, Maine, United States"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "COH 95 - Cage of Honor 95",
+    "url": "https://www.sherdog.com/events/COH-95-Cage-of-Honor-95-109498",
+    "location": "AC Brase Arena, Cape Girardeau, Missouri, United States"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "Beatdown Promotions 12 - Mesquita vs. Kyriacou",
+    "url": "https://www.sherdog.com/events/Beatdown-Promotions-12-Mesquita-vs-Kyriacou-109399",
+    "location": "Eatons Hill, Moreton Bay, Queensland, Australia"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "UFC Fight Night 264 - Bonfim vs. Brown",
+    "url": "https://www.sherdog.com/events/UFC-Fight-Night-264-Bonfim-vs-Brown-109395",
+    "location": "UFC Apex, Las Vegas, Nevada, United States"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "Dragon House MMA - Zhong Luo Cage Fighting Series 15",
+    "url": "https://www.sherdog.com/events/Dragon-House-MMA-Zhong-Luo-Cage-Fighting-Series-15-109344",
+    "location": "Kezar Pavilion, San Francisco, California, United States"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "Beat Down Championship - War Is On",
+    "url": "https://www.sherdog.com/events/Beat-Down-Championship-War-Is-On-109303",
+    "location": "Uberaba Tenis Clube, Uberaba, Minas Gerais, Brazil"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "Northwest Fight Promotions - Clinch Fight Club 13",
+    "url": "https://www.sherdog.com/events/Northwest-Fight-Promotions-Clinch-Fight-Club-13-109025",
+    "location": "Legends Casino, Toppenish, Washington, United States"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "BTC 34 - Iron Forged",
+    "url": "https://www.sherdog.com/events/BTC-34-Iron-Forged-108675",
+    "location": "Hamilton Convention Centre, Hamilton, Ontario, Canada"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "KOTC - Future Legends 65",
+    "url": "https://www.sherdog.com/events/KOTC-Future-Legends-65-106375",
+    "location": "Silver Legacy Resort Casino, Reno, Nevada, United States"
+  },
+  {
+    "date": "2025-11-08T00:00:00+00:00",
+    "name": "Castagne 8 - Castagne Occitane",
+    "url": "https://www.sherdog.com/events/Castagne-8-Castagne-Occitane-105735",
+    "location": "Tactical Fight Team Training Center, Toulouse, France"
+  },
+  {
+    "date": "2025-11-07T18:00:00+00:00",
+    "name": "One Championship - One on Prime Video 37",
+    "url": "https://www.sherdog.com/events/One-Championship-One-on-Prime-Video-37-108248",
+    "location": "Lumpinee Boxing Stadium, Bangkok, Thailand"
+  },
+  {
+    "date": "2025-11-07T04:30:00+00:00",
+    "name": "One Championship - One Friday Fights 132",
+    "url": "https://www.sherdog.com/events/One-Championship-One-Friday-Fights-132-110272",
+    "location": "Lumpinee Boxing Stadium, Bangkok, Thailand"
+  },
+  {
+    "date": "2025-11-07T00:00:00+00:00",
+    "name": "LMMA 9 - Legion MMA 9",
+    "url": "https://www.sherdog.com/events/LMMA-9-Legion-MMA-9-110296",
+    "location": "Capital Sports Padel Center, Caracas, Venezuela"
+  },
+  {
+    "date": "2025-11-07T00:00:00+00:00",
+    "name": "CFFC 148 - Cage Fury Fighting Championships 148: Guarascio vs. Gonzales",
+    "url": "https://www.sherdog.com/events/CFFC-148-Cage-Fury-Fighting-Championships-148-Guarascio-vs-Gonzales-110028",
+    "location": "2300 Arena, Philadelphia, Pennsylvania, United States"
+  },
+  {
+    "date": "2025-11-07T00:00:00+00:00",
+    "name": "Ultimate Combat Challenge 81 - UCC 81",
+    "url": "https://www.sherdog.com/events/Ultimate-Combat-Challenge-81-UCC-81-109963",
+    "location": "Parque de la Industria, Guatemala City, Guatemala"
+  },
+  {
+    "date": "2025-11-07T00:00:00+00:00",
+    "name": "LFA 221 - Clark vs. Consuli",
+    "url": "https://www.sherdog.com/events/LFA-221-Clark-vs-Consuli-109723",
+    "location": "Nilson Nelson Gymnasium, Brasilia, Federal District, Brazil"
+  },
+  {
+    "date": "2025-11-07T00:00:00+00:00",
+    "name": "ACA 195 - Kornilov vs. Vakhaev",
+    "url": "https://www.sherdog.com/events/ACA-195-Kornilov-vs-Vakhaev-109696",
+    "location": "Sibur Arena, St. Petersburg, Russia"
+  },
+  {
+    "date": "2025-11-07T00:00:00+00:00",
+    "name": "Brave CF 100 - Brave Combat Federation 100",
+    "url": "https://www.sherdog.com/events/Brave-CF-100-Brave-Combat-Federation-100-109563",
+    "location": "Khalifa Sports City Arena, Isa Town, Bahrain"
+  },
+  {
+    "date": "2025-11-07T00:00:00+00:00",
+    "name": "Urijah Faber's A1 Combat 32 - Brand vs. Ewing",
+    "url": "https://www.sherdog.com/events/Urijah-Fabers-A1-Combat-32-Brand-vs-Ewing-109474",
+    "location": "Hard Rock Live, Wheatland, California, United States"
+  },
+  {
+    "date": "2025-11-07T00:00:00+00:00",
+    "name": "HXMMA 36 - Hexagone MMA 36",
+    "url": "https://www.sherdog.com/events/HXMMA-36-Hexagone-MMA-36-109112",
+    "location": "MET Arena, Szekesfehervar, Hungary"
+  },
+  {
+    "date": "2025-11-07T00:00:00+00:00",
+    "name": "Elite Fight Night - EFN 28: Rumble at Hard Rock",
+    "url": "https://www.sherdog.com/events/Elite-Fight-Night-EFN-28-Rumble-at-Hard-Rock-108320",
+    "location": "Hard Rock Casino Northern Indiana, Gary, Indiana, United States"
+  },
+  {
+    "date": "2025-11-06T00:00:00+00:00",
+    "name": "Anza MMA 4 - KO Fight Nights",
+    "url": "https://www.sherdog.com/events/Anza-MMA-4-KO-Fight-Nights-110316",
+    "location": "The Alchemist, Nairobi, Kenya"
+  },
+  {
+    "date": "2025-11-06T00:00:00+00:00",
+    "name": "Bidang Fighting Championship - BFC 8: BFC x AIFC",
+    "url": "https://www.sherdog.com/events/Bidang-Fighting-Championship-BFC-8-BFC-x-AIFC-110281",
+    "location": "Dree Ground, Itanagar, Arunachal Pradesh, India"
+  },
+  {
+    "date": "2025-11-06T00:00:00+00:00",
+    "name": "OFC 58 - Open Fighting Championship 58",
+    "url": "https://www.sherdog.com/events/OFC-58-Open-Fighting-Championship-58-110185",
+    "location": "MTL Arena, Samara, Russia"
+  },
+  {
+    "date": "2025-11-06T00:00:00+00:00",
+    "name": "FFC 98 - Llontop vs. Barrios",
+    "url": "https://www.sherdog.com/events/FFC-98-Llontop-vs-Barrios-110158",
+    "location": "Barranco Convetion Center, Barranco, Lima, Peru"
+  },
+  {
+    "date": "2025-11-06T00:00:00+00:00",
+    "name": "EFC 129 - EFC Worldwide 129",
+    "url": "https://www.sherdog.com/events/EFC-129-EFC-Worldwide-129-106244",
+    "location": "World Sports Betting Arena - EFC Performance Institute, Sandton, South Africa"
+  },
+  {
+    "date": "2025-11-05T00:00:00+00:00",
+    "name": "R1 Fighting Series 5 - Santos vs. Neto",
+    "url": "https://www.sherdog.com/events/R1-Fighting-Series-5-Santos-vs-Neto-110298",
+    "location": "Nilson Nelson Gymnasium, Brasilia, Federal District, Brazil"
   },
   {
     "date": "2025-08-21T00:00:00+00:00",
